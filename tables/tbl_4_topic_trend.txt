@@ -1,0 +1,58 @@
+% latex table generated in R 4.1.0 by xtable 1.8-4 package
+% Thu Jul 28 13:31:39 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{lll}
+  \hline
+topic & alpha & beta \\ 
+  \hline
+\textsf{Contagion/Spillover} & \grbbb{2.33} & \grbbb{1.42} \\ 
+  \textsf{Corporate Social Responsability} & \grbbb{2.23} & \grbbb{1.27} \\ 
+  \textsf{Household Credit/Economic Crash} & \grbbb{1.71} & \grbbb{1.27} \\ 
+  \textsf{Political Relationship/Corruption} & \grbbb{1.28} & \grbbb{1.23} \\ 
+  \textsf{Hedging} & \grbbb{1.42} & \grbbb{0.86} \\ 
+  \textsf{Bank Liquidity} & \grbbb{2.87} & \grbbb{0.7} \\ 
+  \textsf{Emerging Country} & \grbbb{2.62} & \grbbb{0.65} \\ 
+  \textsf{Board/Executive} & \grbbb{2.7} & \grbbb{0.63} \\ 
+  \textsf{Corporate Conduct/Regulation} & \grbbb{1.47} & \grbbb{0.5} \\ 
+  \textsf{Decision-Making Process} & \grbbb{2.02} & \grbbb{0.49} \\ 
+  \textsf{Disclosure} & \grbbb{1.64} & \grbbb{0.48} \\ 
+  \textsf{Literature Review} & \grbbb{2.29} & \grbbb{0.44} \\ 
+  \textsf{Factor Model} & \grbbb{2.8} & \grbbb{0.41} \\ 
+  \textsf{Debt Financing} & \grbbb{2} & \grbbb{0.35} \\ 
+  \textsf{Risk Management} & \grbbb{1.61} & \grbbb{0.3} \\ 
+  \textsf{Fund Performance} & \grbbb{2.73} & \grbbb{0.27} \\ 
+  \textsf{Analyst} & \grbbb{1.65} & \grbbb{0.19} \\ 
+  \textsf{Corporate Investment} & \grbbb{2.09} & \grbbb{0.19} \\ 
+  \textsf{Bond Market} & \grbbb{1.73} & \grbbb{0.18} \\ 
+  \textsf{Retirement/Annuity Market} & \grbbb{1.74} & \grbb{0.16} \\ 
+  \textsf{Debt Governance} & \grbbb{2.26} &  0.06 \\ 
+  \textsf{Concentration/Competition} & \grbbb{1.57} &  0.03 \\ 
+  \textsf{Monetary Policy} & \grbbb{3.93} & -0.09 \\ 
+  \textsf{Residential Market} & \grbbb{2.23} & -0.10 \\ 
+  \textsf{Credit Risk} & \grbbb{1.99} & \grb{-0.11} \\ 
+  \textsf{Merger/Acquisition} & \grbbb{2.15} & \grbbb{-0.2} \\ 
+  \textsf{Ownership} & \grbbb{2.17} & \grbbb{-0.28} \\ 
+  \textsf{Banking Efficiency} & \grbbb{1.91} & \grbbb{-0.36} \\ 
+  \textsf{Currency} & \grbbb{2.92} & \grbbb{-0.39} \\ 
+  \textsf{Portfolio Strategy} & \grbbb{3.66} & \grbbb{-0.39} \\ 
+  \textsf{Capital Structure} & \grbbb{2.12} & \grbbb{-0.41} \\ 
+  \textsf{Firm Diversification} & \grbbb{1.43} & \grbbb{-0.42} \\ 
+  \textsf{Firm Earnings} & \grbbb{2.66} & \grbbb{-0.46} \\ 
+  \textsf{Retail Payment System} & \grbbb{2.09} & \grbbb{-0.47} \\ 
+  \textsf{Return Predictability} & \grbbb{3.67} & \grbbb{-0.48} \\ 
+  \textsf{Trading/Liquidity} & \grbbb{4.58} & \grbbb{-0.49} \\ 
+  \textsf{Payout Policy} & \grbbb{1.77} & \grbbb{-0.58} \\ 
+  \textsf{Corporate Announcement} & \grbbb{2.11} & \grbbb{-0.59} \\ 
+  \textsf{Firm Valuation} & \grbbb{1.49} & \grbbb{-0.63} \\ 
+  \textsf{Volatility} & \grbbb{3.14} & \grbbb{-0.66} \\ 
+  \textsf{Real Estate/Bubble} & \grbbb{2.6} & \grbbb{-0.67} \\ 
+  \textsf{Option Pricing} & \grbbb{4.61} & \grbbb{-0.78} \\ 
+  \textsf{IPO} & \grbbb{2.56} & \grbbb{-0.88} \\ 
+  \textsf{Insurance System} & \grbbb{2.43} & \grbbb{-0.91} \\ 
+  \textsf{Interest Rate} & \grbbb{2.85} & \grbbb{-0.95} \\ 
+  \textsf{Market Anomaly} & \grbbb{3.89} & \grbbb{-1.06} \\ 
+   \hline
+\end{tabular}
+\end{table}
+

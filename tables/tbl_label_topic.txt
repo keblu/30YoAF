@@ -1,0 +1,61 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Sun Aug 07 16:55:50 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{ll}
+  \hline
+label & terms \\ 
+  \hline
+\textsf{Analyst} & analyst, bia, institutional\_investor, dispersion, forecast, recommendation, side, revision, institutional\_ownership, earning\_forecast \\ 
+  \textsf{Bank Liquidity} & bank, banks, banking, capital, liquidity, systemic\_risk, funding, paper, deposit, effect \\ 
+  \textsf{Banking Efficiency} & efficiency, technology, production, productivity, cost, stage, scale, revenue, inefficiency, performance \\ 
+  \textsf{Board/Executive} & board, ceo, compensation, incentive, ceos, performance, director, firm\_performance, family, firm \\ 
+  \textsf{Bond Market} & bond, spread, yield, cds, bond\_market, corporate\_bond, call, credit\_spread, credit\_default\_swap, government\_bond \\ 
+  \textsf{Capital Structure} & leverage, asset, capital\_structure, bankruptcy, firm, off, adjustment, theory, financial\_distress, debt \\ 
+  \textsf{Concentration/Competition} & index, measure, competition, sector, concentration, entry, market\_power, deregulation, inclusion, result \\ 
+  \textsf{Contagion/Spillover} & stock\_market, crisis, correlation, period, financial\_crisis, spillover, contagion, financial\_market, oil, time \\ 
+  \textsf{Corporate Announcement} & company, announcement, management, program, abnormal\_return, performance, employee, repurchase, term, private\_equity \\ 
+  \textsf{Corporate Conduct/Regulation} & regulation, network, customer, action, restriction, rule, act, regulator, client, broker \\ 
+  \textsf{Corporate Investment} & investment, cash, capital, cash\_flow, financing, firm, growth, cash\_holding, investment\_opportunity, financial\_constraint \\ 
+  \textsf{Corporate Social Responsability} & firm, effect, innovation, evidence, activity, result, csr, increase, finding, labor \\ 
+  \textsf{Credit Risk} & rate, default, mortgage, model, credit\_risk, probability, duration, default\_risk, time, recovery \\ 
+  \textsf{Currency} & currency, ltd, exchange\_rate, dollar, paper, country, intervention, trade, right, effect \\ 
+  \textsf{Debt Financing} & loan, borrower, relationship, lender, loans, contract, lending, collateral, bank, bank\_loan \\ 
+  \textsf{Debt Governance} & debt, firm, governance, corporate\_governance, firm\_value, law, agency\_cost, result, protection, effect \\ 
+  \textsf{Decision-Making Process} & investor, preference, belief, venture\_capital, behavior, individual\_investor, experience, individual, exit, perception \\ 
+  \textsf{Disclosure} & quality, accounting, disclosure, standard, report, transparency, information\_asymmetry, adoption, information, accrual \\ 
+  \textsf{Emerging Country} & country, institution, world, level, cross, region, determinant, difference, growth, factor \\ 
+  \textsf{Factor Model} & stock, factor, return, beta, momentum, stock\_return, sentiment, cross\_section, premium, size \\ 
+  \textsf{Financial Literature Analysis} & finance, uncertainty, research, article, project, literature, development, theory, review, issue \\ 
+  \textsf{Firm Diversification} & value, diversification, discount, excess, line, focus, change, segment, growth, name \\ 
+  \textsf{Firm Earnings} & information, stock\_price, earning, news, change, event, announcement, signal, response, reaction \\ 
+  \textsf{Firm Valuation} & equity, share, valuation, book, equity\_market, market\_value, percent, size, listing, equity\_return \\ 
+  \textsf{Fund Performance} & fund, performance, mutual\_fund, manager, hedge\_fund, benchmark, style, fee, alpha, return \\ 
+  \textsf{Hedging} & exposure, hedge, commodity, hedging, bitcoin, energy, gold, cryptocurrency, market\_risk, ambiguity \\ 
+  \textsf{Household Credit/Economic Crash} & credit, income, household, supply, effect, state, cycle, channel, access, data \\ 
+  \textsf{Insurance System} & insurance, loss, system, insurer, claim, self, article, liability, classification, coverage \\ 
+  \textsf{Interest Rate} & interest\_rate, arbitrage, term, term\_structure, factor, pricing, basis, maturity, swap, deviation \\ 
+  \textsf{Ipo} & issue, ipo, security, ipos, issuer, underpricing, reputation, underwriter, initial\_public\_offering, offering \\ 
+  \textsf{Literature Review} & paper, purpose, group, methodology, study, finding, approach, design, limited, author \\ 
+  \textsf{Market Anomaly} & return, effect, period, day, stock\_return, pattern, month, evidence, result, year \\ 
+  \textsf{Merger/Acquisition} & target, acquisition, merger, takeover, acquirer, deal, gain, bidder, auction, premium \\ 
+  \textsf{Monetary Policy} & inflation, shocks, model, monetary\_policy, state, policy, economy, regime, paper, equilibrium \\ 
+  \textsf{Option Pricing} & option, method, model, pricing, jump, derivative, price, formula, time, option\_price \\ 
+  \textsf{Ownership} & shareholder, ownership, control, insider, manager, class, ownership\_structure, management, owner, insider\_trading \\ 
+  \textsf{Payout Policy} & dividend, tax, reform, dividend\_policy, payout, treatment, dividend\_payout, capital\_gain, taxation, effect \\ 
+  \textsf{Political Relationship/Corruption} & government, author, financial, study, behalf, right, authors, society, state, enterprise \\ 
+  \textsf{Portfolio Strategy} & portfolio, strategy, asset, variance, return, approach, author, problem, factor, transaction\_cost \\ 
+  \textsf{Real Estate/Bubble} & market, price, real\_estate, property, sale, bubble, reit, markets, buyer, seller \\ 
+  \textsf{Remainder 1} & paper, result, effect, evidence, impact, analysis, right, study, number, market \\ 
+  \textsf{Remainder 2} & industry, decision, profit, profitability, industries, participation, decline, privatization, operation, make \\ 
+  \textsf{Residential Market} & business, science, media, agent, housing, part, nature, york, home, house\_price \\ 
+  \textsf{Retail Payment System} & cost, demand, product, payment, money, service, consumer, transaction, retail, reserve \\ 
+  \textsf{Retirement/Annuity Market} & rating, wealth, benefit, life, credit\_rating, pension, age, health, retirement, plan \\ 
+  \textsf{Return Predictability} & time, ratio, model, variable, component, horizon, sample, predictability, variation, estimate \\ 
+  \textsf{Risk Management} & risk, risk\_management, risk\_aversion, risk\_measure, capital, averse, solvency, reinsurance, shifting, risks \\ 
+  \textsf{Statistical Modeling} & model, taylor, distribution, francis, data, estimation, approach, method, process, paper \\ 
+  \textsf{Trading/Liquidity} & liquidity, trading, trade, trader, order, volume, exchange, market, bid, spread \\ 
+  \textsf{Volatility} & volatility, future, periodicals, future\_market, test, result, study, cointegration, future\_price, hypothesis \\ 
+   \hline
+\end{tabular}
+\end{table}

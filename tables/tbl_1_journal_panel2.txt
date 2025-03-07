@@ -1,0 +1,16 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Thu Jul 28 12:31:09 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{rr}
+  \hline
+tmp1 & tmp2 \\ 
+  \hline
+461 & 20 \\ 
+  4884 & 163 \\ 
+  1324 & 47 \\ 
+  1442 & 52 \\ 
+  46144 & 1676 \\ 
+   \hline
+\end{tabular}
+\end{table}

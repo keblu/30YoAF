@@ -1,0 +1,44 @@
+% latex table generated in R 4.1.0 by xtable 1.8-4 package
+% Thu Jul 28 15:39:07 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{llrlrrl}
+  \hline
+u_journal & Top & TopPct & Bot & BotPct & TC & Estimate \\ 
+  \hline
+EFM & \textsf{Currency} & 4.93 & \textsf{Residential Market} & 0.47 & 0.53 & \grbbb{-3.76} \\ 
+  EJF & \textsf{Market Anomaly} & 4.01 & \textsf{Residential Market} & 0.45 & 0.53 & \grbbb{-9.21} \\ 
+  FAJ & \textsf{Portfolio Strategy} & 11.01 & \textsf{Debt Financing} & 0.28 & 2.07 & \grbbb{ 2.50} \\ 
+  FM & \textsf{Corporate Social Responsability} & 9.47 & \textsf{Monetary Policy} & 0.36 & 1.49 &  0.52 \\ 
+  FR & \textsf{Trading/Liquidity} & 7.77 & \textsf{Residential Market} & 0.32 & 1.01 &  0.53 \\ 
+  FRL & \textsf{Contagion/Spillover} & 7.52 & \textsf{IPO} & 0.56 & 1.06 & \grbbb{-5.45} \\ 
+  IRFA & \textsf{Contagion/Spillover} & 7.17 & \textsf{Residential Market} & 0.61 & 0.90 & \grbbb{-4.63} \\ 
+  JB & \textsf{Retail Payment System} & 4.56 & \textsf{Political Relationship/Corruption} & 0.36 & 0.62 & \grbbb{-5.08} \\ 
+  JBF & \textsf{Bank Liquidity} & 7.74 & \textsf{Political Relationship/Corruption} & 0.69 & 0.68 & \grbbb{-3.09} \\ 
+  JCF & \textsf{Board/Executive} & 10.17 & \textsf{Interest Rate} & 0.32 & 2.32 & \grbbb{-3.77} \\ 
+  JD & \textsf{Option Pricing} & 34.11 & \textsf{Corporate Social Responsability} & 0.23 & 14.79 &  0.75 \\ 
+  JEF & \textsf{Return Predictability} & 6.96 & \textsf{Political Relationship/Corruption} & 0.31 & 1.67 & \grbbb{-5.96} \\ 
+  JF & \textsf{Trading/Liquidity} & 6.50 & \textsf{Literature Review} & 0.32 & 0.72 & \grbb{-1.35} \\ 
+  JFE & \textsf{Trading/Liquidity} & 4.97 & \textsf{Literature Review} & 0.44 & 0.64 & \grbbb{-4.16} \\ 
+  JFM & \textsf{Volatility} & 19.28 & \textsf{Debt Financing} & 0.12 & 7.71 & \grbb{-3.62} \\ 
+  JFMKT & \textsf{Trading/Liquidity} & 25.02 & \textsf{Political Relationship/Corruption} & 0.30 & 7.07 & \grbbb{-5.10} \\ 
+  JFQA & \textsf{Corporate Social Responsability} & 5.50 & \textsf{Literature Review} & 0.36 & 0.89 & \grbbb{-2.89} \\ 
+  JFR & \textsf{Trading/Liquidity} & 8.57 & \textsf{Political Relationship/Corruption} & 0.32 & 1.43 & -0.89 \\ 
+  JFSR & \textsf{Bank Liquidity} & 15.56 & \textsf{Hedging} & 0.33 & 3.10 &  1.38 \\ 
+  JIFMIM & \textsf{Contagion/Spillover} & 7.91 & \textsf{Payout Policy} & 0.47 & 1.79 & \grbbb{-5.08} \\ 
+  JIMF & \textsf{Currency} & 20.07 & \textsf{Board/Executive} & 0.22 & 6.78 & \grbbb{-1.77} \\ 
+  JMCB & \textsf{Monetary Policy} & 30.60 & \textsf{Hedging} & 0.30 & 10.79 & -1.03 \\ 
+  JPM & \textsf{Portfolio Strategy} & 20.22 & \textsf{Bank Liquidity} & 0.19 & 5.14 &  0.85 \\ 
+  JREFE & \textsf{Residential Market} & 21.53 & \textsf{Currency} & 0.27 & 6.48 &  0.88 \\ 
+  JRI & \textsf{Insurance System} & 29.13 & \textsf{Analyst} & 0.27 & 10.70 & -0.85 \\ 
+  PBFJ & \textsf{Trading/Liquidity} & 5.72 & \textsf{Insurance System} & 0.67 & 0.98 & \grbbb{-3.57} \\ 
+  QF & \textsf{Option Pricing} & 16.73 & \textsf{Political Relationship/Corruption} & 0.14 & 7.12 & -1.98 \\ 
+  RF & \textsf{Political Relationship/Corruption} & 6.31 & \textsf{Literature Review} & 0.40 & 0.64 & \grbbb{-5.32} \\ 
+  RFS & \textsf{Political Relationship/Corruption} & 8.21 & \textsf{Literature Review} & 0.48 & 0.95 & -0.66 \\ 
+  JFI & \textsf{Bank Liquidity} & 13.47 & \textsf{Hedging} & 0.32 & 2.48 & -1.52 \\ 
+  MANF & \textsf{Literature Review} & 21.21 & \textsf{Bond Market} & 0.41 & 4.97 & -0.82 \\ 
+  RQFA & \textsf{Residential Market} & 8.07 & \textsf{Political Relationship/Corruption} & 0.49 & 1.12 &  0.32 \\ 
+   \hline
+\end{tabular}
+\end{table}
+

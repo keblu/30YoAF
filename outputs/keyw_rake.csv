@@ -1,0 +1,784 @@
+"keyword","ngram","freq","rake"
+"commercial real estate",3,54,5.9079063906383
+"real estate market",3,133,5.54830925846413
+"geometric brownian motion",3,61,5.52373827829756
+"real exchange rate",3,386,5.29861076405464
+"chief executive officer",3,197,5.1661567819025
+"real interest rate",3,164,5.16343385298831
+"cumulative abnormal return",3,79,5.1314596639859
+"nominal exchange rate",3,79,5.12872538873686
+"stochastic interest rate",3,107,5.11639181790517
+"interest rate swap",3,58,5.10851574518017
+"federal fund rate",3,81,5.03957742944296
+"foreign exchange rate",3,63,5.03425696187209
+"unconventional monetary policy",3,98,5.02493417314977
+"nominal interest rate",3,105,4.99354847767053
+"corporate social responsibility",3,227,4.96667602849045
+"seasoned equity offering",3,158,4.90910557045724
+"exchange rate movement",3,59,4.77221093544821
+"initial public offering",3,498,4.75784799646371
+"season equity offering",3,55,4.73254575652256
+"foreign exchange market",3,290,4.63689383753081
+"exchange rate risk",3,82,4.6241985888441
+"exchange rate exposure",3,75,4.6125698434551
+"credit default swap",3,276,4.59104893555258
+"foreign exchange risk",3,67,4.54187488409794
+"optimal monetary policy",3,60,4.53982411704274
+"lower interest rate",3,57,4.5069473271432
+"higher interest rate",3,69,4.50437098849304
+"exchange rate regime",3,144,4.50344491005324
+"exchange rate volatility",3,155,4.49315756273773
+"interest rate risk",3,206,4.48902167777777
+"term interest rate",3,268,4.47389952593967
+"southwestern finance association",3,253,4.47085912677344
+"equity mutual fund",3,107,4.43305067732139
+"exchange rate dynamics",3,56,4.38097986072227
+"abnormal stock return",3,67,4.37824283131668
+"data envelopment analysis",3,58,4.3713068761608
+"negative abnormal return",3,82,4.36041182323621
+"interest rate volatility",3,65,4.3579806516714
+"international financial market",3,53,4.35774149077103
+"real earning management",3,85,4.34570542928758
+"european stock market",3,69,4.34118484598077
+"interest rate derivative",3,54,4.34056849586889
+"stochastic discount factor",3,85,4.3322599040114
+"corporate tax avoidance",3,52,4.32665924017587
+"optimal capital structure",3,84,4.31368120735116
+"stock price synchronicity",3,53,4.31077385531896
+"positive abnormal return",3,130,4.30854549747627
+"corporate governance mechanism",3,55,4.29065174427295
+"international equity market",3,88,4.28470130323855
+"international stock market",3,107,4.27596419351193
+"internal capital market",3,164,4.25931682169692
+"significant abnormal return",3,86,4.25104491076117
+"real estate",2,360,4.2435313906383
+"corporate bond market",3,110,4.23904712329583
+"exchange rate change",3,68,4.23004841534604
+"monetary policy shocks",3,123,4.22287130478042
+"optimal hedge ratio",3,66,4.21980125331932
+"free cash flow",3,146,4.21463557167475
+"firm -level data",3,78,4.21271813391685
+"mutual fund industry",3,107,4.20418081316969
+"dollar exchange rate",3,71,4.19168105376149
+"corporate cash holding",3,86,4.1891732567587
+"global financial crisis",3,478,4.18581152335671
+"foreign direct investment",3,88,4.16160351469086
+"moral hazard problem",3,79,4.15082542755039
+"institutional investor LLC",3,66,4.12470442705514
+"mutual fund performance",3,131,4.09858761122157
+"stock index future",3,91,4.09837983120695
+"interest rate change",3,55,4.09487150427971
+"error correction model",3,58,4.08288001319859
+"chinese stock market",3,229,4.0736664669883
+"commodity future market",3,106,4.07330736382492
+"asian stock market",3,55,4.06041089592505
+"relative risk aversion",3,69,4.0373799159418
+"sovereign debt crisis",3,82,4.02651467428983
+"further analysis reveal",3,55,4.02443564950176
+"future stock return",3,119,4.00960703736586
+"stock price reaction",3,129,4.00856011960113
+"stochastic volatility model",3,209,3.99727147998925
+"credit rating agency",3,56,3.99237968773367
+"stock market reaction",3,107,3.99159947808801
+"hedge fund return",3,84,3.97372377425785
+"capital structure decision",3,87,3.9623271750604
+"price discovery process",3,117,3.95869382266137
+"recent financial crisis",3,230,3.94170532847149
+"mutual fund investor",3,57,3.94099470793877
+"asian financial crisis",3,108,3.93599124323272
+"asset allocation decision",3,54,3.92961554480669
+"technical trading rule",3,99,3.92820383349862
+"asset pricing model",3,271,3.91741142440422
+"oil price shocks",3,98,3.90925252435453
+"equity premium puzzle",3,54,3.90523794895084
+"equity risk premium",3,52,3.9020004734521
+"stock market index",3,108,3.90022453330892
+"mutual fund manager",3,112,3.89675381202716
+"market risk premium",3,77,3.8902558855713
+"stock market participation",3,51,3.88926849051112
+"foreign institutional investor",3,92,3.83147823621522
+"economic policy uncertainty",3,206,3.8314381766852
+"option pricing model",3,115,3.8215438101779
+"stock market return",3,229,3.81145173946782
+"executive stock option",3,91,3.80343105340393
+"american finance association",3,657,3.80128480469577
+"index option market",3,60,3.78694004656965
+"net asset value",3,67,3.75644799425413
+"cash flow sensitivity",3,120,3.75372646803582
+"impulse response function",3,52,3.75298721217498
+"variance risk premium",3,54,3.73151541756737
+"general equilibrium model",3,83,3.70742653193684
+"stock market volatility",3,171,3.69128110209243
+"stock price informativeness",3,52,3.68262120045171
+"term structure model",3,80,3.68152187641488
+"instrumental variable approach",3,57,3.6141752974497
+"stock market development",3,58,3.59581902775933
+"stock market performance",3,55,3.59462260341266
+"stock return volatility",3,141,3.58539175992858
+"stock market liquidity",3,73,3.56508479490534
+"macroeconomic news announcement",3,52,3.56371957266061
+"hedge fund manager",3,71,3.55506083900828
+"investment opportunity set",3,82,3.54592477227165
+"unique data set",3,138,3.51685412968849
+"loan loss provision",3,70,3.48729792007539
+"employee stock option",3,62,3.44820557591889
+"financial time series",3,77,3.44138119122726
+"crude oil",2,131,3.43335568522825
+"exchange rate",2,1311,3.41443967445114
+"high frequency data",3,58,3.35873743860035
+"stock return predictability",3,74,3.35861561921481
+"bank hold companey",3,100,3.33381286810512
+"foreign exchange",2,166,3.33211596970498
+"product market competition",3,170,3.30742848537384
+"standard deviation increase",3,58,3.29676854160232
+"extreme value theory",3,66,3.28068568968335
+"interest rate",2,1665,3.27926276338481
+"balance sheet",2,188,3.26970813189062
+"limit order book",3,146,3.26267790620091
+"principal component analysis",3,89,3.20285113862055
+"financial crisis period",3,51,3.18594575891571
+"small open economy",3,104,3.13027861058678
+"mutual fund",2,951,3.11652822161475
+"forward rate",2,111,3.10068417635024
+"free rate",2,127,3.09953126500221
+"real option",2,132,3.07867194884424
+"abnormal return",2,846,3.07045748533667
+"corporate governance",2,942,3.05118719295912
+"monetary policy",2,1123,3.02493417314977
+"stock exchange",2,261,3.02008402826405
+"important policy implication",3,78,3.01244542431045
+"moral hazard",2,325,3.01013817655437
+"random walk",2,151,2.99227657704966
+"discount rate",2,183,2.98634035589987
+"international market",2,132,2.96817884753192
+"growth rate",2,201,2.96456581014748
+"unit root",2,102,2.95354334554335
+"corporate bond",2,326,2.93426925547
+"initial return",2,117,2.9266264990499
+"pricing kernel",2,102,2.92359460423104
+"european option",2,145,2.92312249141568
+"stochastic volatility",2,358,2.91584694280695
+"social capital",2,116,2.89306959017472
+"pension fund",2,183,2.87853589949542
+"credit union",2,125,2.87413834196891
+"short sale constraint",3,69,2.85719792215139
+"secondary market",2,132,2.84852786782583
+"local market",2,105,2.83741283962277
+"asset pricing",2,291,2.83598688722192
+"convertible bond",2,150,2.83361314142593
+"foreign currency",2,151,2.8316228429765
+"venture capital",2,242,2.82705617697655
+"corporate risk",2,122,2.82658418266588
+"future price",2,326,2.82467167506282
+"corporate investment",2,240,2.82320776883477
+"macroprudential policy",2,118,2.82241100649791
+"adverse selection",2,364,2.82144387685272
+"crash risk",2,136,2.81943965589656
+"power parity",2,139,2.81902403140509
+"cash flow",2,460,2.81724529883964
+"foreign ownership",2,127,2.8161412623755
+"corporate finance",2,160,2.8134531476365
+"future market",2,471,2.80771103354969
+"dynamic model",2,166,2.80410258115999
+"credit market",2,193,2.80067786782583
+"capital structure",2,795,2.79879126345819
+"financial structure",2,101,2.79502321991684
+"index future",2,161,2.79059448522694
+"pricing error",2,131,2.79004577732134
+"payout policy",2,132,2.78005809473523
+"hedge fund",2,767,2.77483524859587
+"recovery rate",2,138,2.77115939707508
+"future contract",2,305,2.77068577453018
+"credit rating",2,364,2.77050964019009
+"capital requirement",2,344,2.76925661270639
+"commodity future",2,136,2.76852949599909
+"asset allocation",2,246,2.76607963320448
+"business cycle",2,481,2.76601717825535
+"financial management",2,450,2.76281613625309
+"human capital",2,151,2.75935939491444
+"corporate debt",2,104,2.75918027706028
+"active management",2,128,2.75315714063957
+"fiscal policy",2,154,2.74852348133504
+"risk premia",2,310,2.74665458869321
+"option pricing",2,222,2.7401192729956
+"house price",2,308,2.73008696668922
+"sharpe ratio",2,148,2.72957211870255
+"underlying stock",2,137,2.72721776541243
+"interbank market",2,138,2.72413270653551
+"total asset",2,130,2.72363336053072
+"financial literacy",2,177,2.72289597657245
+"optimal portfolio",2,213,2.72030664404566
+"policy maker",2,176,2.71415189353776
+"price discovery",2,642,2.71387964807191
+"risk aversion",2,433,2.71309471869244
+"oil price",2,248,2.71131539272389
+"offer price",2,117,2.71027924344817
+"market structure",2,219,2.71023844450355
+"equity capital",2,225,2.7098531424871
+"underlying asset",2,278,2.70980089289948
+"deposit insurance",2,213,2.70664946834317
+"credit risk",2,706,2.70565891439295
+"hedge ratio",2,156,2.70491130942636
+"future return",2,325,2.70182169138584
+"common stock",2,229,2.69959586384432
+"financial system",2,309,2.69913554456459
+"capital market",2,439,2.6981085546063
+"financial market",2,1136,2.69434051106494
+"equity premium",2,199,2.69224155905914
+"daily return",2,241,2.69182569078619
+"excess return",2,520,2.69164832123268
+"corporate control",2,210,2.68610237670666
+"market reaction",2,363,2.683814132108
+"financial service",2,123,2.68168010846323
+"financial asset",2,191,2.67993111670618
+"price movement",2,102,2.67950977033602
+"private equity",2,190,2.67657871449707
+"real economy",2,136,2.67335469277263
+"spot price",2,108,2.6724675960619
+"downside risk",2,174,2.67061300691965
+"private placement",2,114,2.66493430757092
+"banking system",2,225,2.65659276887515
+"spot market",2,106,2.65550695454878
+"bond yield",2,159,2.65523772087854
+"real effect",2,158,2.65114207396579
+"external finance",2,137,2.64959960469537
+"external financing",2,166,2.64926115019265
+"explanatory power",2,264,2.64617745150277
+"financial statement",2,130,2.64292156838307
+"venture capitalist",2,218,2.64219454557067
+"international diversification",2,165,2.63995775626286
+"bond price",2,120,2.63918249653603
+"equity price",2,157,2.63826096504559
+"housing price",2,143,2.63624504917248
+"capital ratio",2,139,2.63401391659413
+"yield curve",2,251,2.63207166283678
+"stock price",2,1571,2.62952385531896
+"pricing model",2,204,2.62704295093716
+"market price",2,407,2.62651637716478
+"financial sector",2,208,2.62510271292552
+"bond market",2,336,2.6222218550229
+"equity market",2,768,2.62130032353246
+"housing market",2,239,2.61928440765936
+"commercial bank",2,265,2.61704228337959
+"stock market",2,2295,2.61256321380584
+"asset price",2,644,2.61210698280602
+"economic growth",2,403,2.60853475110711
+"idiosyncratic risk",2,328,2.6051564039327
+"price limit",2,161,2.60387141821281
+"systemic risk",2,559,2.60369830833235
+"common factor",2,169,2.60274200362259
+"ownership structure",2,461,2.60178455163228
+"daily data",2,247,2.60123062604925
+"term structure",2,877,2.60009733923258
+"financial risk",2,109,2.59932155763207
+"corporate performance",2,118,2.59888465787975
+"conditional variance",2,181,2.59883060465693
+"order flow",2,309,2.5986887719093
+"index fund",2,110,2.59826848848625
+"credit quality",2,119,2.5971465021623
+"stock index",2,258,2.59544666548309
+"market index",2,128,2.59243918732891
+"future earning",2,131,2.59121401239397
+"trading strategy",2,206,2.58974158592115
+"monthly return",2,110,2.58955907959784
+"financial variable",2,116,2.58871108527511
+"commodity price",2,160,2.58733483961418
+"financial liberalization",2,101,2.5864991859087
+"risk premium",2,566,2.58547801774546
+"portfolio selection",2,106,2.58539156399853
+"institutional ownership",2,337,2.58351843742481
+"risk management",2,439,2.58301240740693
+"banking sector",2,277,2.58255993723608
+"future volatility",2,124,2.58165105401045
+"implied volatility",2,267,2.58013834283204
+"portfolio management",2,101,2.57867019316667
+"panel data",2,208,2.57366742214388
+"foreign bank",2,163,2.57248457080053
+"cash holding",2,391,2.57234798848577
+"commodity market",2,146,2.57037419810106
+"growth stock",2,133,2.57021016396039
+"intraday data",2,132,2.56825938937478
+"commercial banks",2,161,2.56731416609706
+"managerial ownership",2,198,2.56248904563399
+"price ratio",2,151,2.56242173915262
+"credit supply",2,115,2.5599589569161
+"financial condition",2,104,2.55834436912744
+"financial distress",2,536,2.55072616525169
+"market maker",2,363,2.54903674047719
+"asian crisis",2,115,2.5464285999936
+"systematic risk",2,452,2.54604770476661
+"market ratio",2,170,2.5454610976395
+"structural break",2,264,2.53922545758904
+"corporate innovation",2,160,2.53761734748085
+"structural model",2,179,2.53480662127737
+"asset class",2,251,2.53356760295564
+"conditional volatility",2,174,2.53151109312161
+"predictive power",2,369,2.52892707649462
+"historical data",2,102,2.52392739800798
+"dependence structure",2,142,2.52169304160758
+"positive association",2,169,2.5201932752975
+"trading activity",2,245,2.51796023326302
+"american option",2,196,2.51705252141505
+"currency market",2,121,2.51658342338139
+"bond return",2,157,2.51633251285905
+"option price",2,557,2.5162393685797
+"growth opportunity",2,288,2.51553851826161
+"equity return",2,350,2.51541098136861
+"economic condition",2,136,2.51489165901506
+"economic activity",2,174,2.51480812912868
+"market risk",2,270,2.51453678221879
+"macroeconomic variable",2,222,2.51410907195726
+"diffusion process",2,116,2.51193746226069
+"capital expenditure",2,192,2.51113173390089
+"contingent claim",2,103,2.51048753601887
+"market portfolio",2,222,2.51019456797853
+"stock return",2,2651,2.50667387164199
+"credit spread",2,288,2.50571912144703
+"market return",2,336,2.50366639348781
+"stock option",2,222,2.50228620522075
+"political risk",2,127,2.50148749289716
+"market capitalization",2,116,2.49956314389945
+"option market",2,398,2.49927872706657
+"monthly data",2,153,2.4989640148609
+"cross -section",2,684,2.49795530362377
+"financial constraint",2,438,2.49484497475095
+"other market",2,143,2.49233993336704
+"bear market",2,113,2.49208904607356
+"insurance industry",2,115,2.49074414922437
+"asset return",2,428,2.48925699912905
+"negative return",2,117,2.48884286356152
+"financial crisis",2,1462,2.48814356111351
+"equilibrium model",2,111,2.48695074604049
+"policy uncertainty",2,110,2.48532824355846
+"financial integration",2,184,2.48390226588062
+"macroeconomic condition",2,107,2.48374235580958
+"index option",2,215,2.48216217874382
+"individual stock",2,273,2.47686865883329
+"default risk",2,536,2.47565486815018
+"idiosyncratic volatility",2,317,2.47411537782634
+"market condition",2,263,2.47355959371416
+"capital gain",2,142,2.46823500608063
+"media coverage",2,103,2.46548278668421
+"call option",2,122,2.46406607663205
+"capital control",2,123,2.4626077952142
+"earning surprise",2,104,2.46208276360302
+"earning management",2,536,2.46153433968408
+"market power",2,294,2.45972724915316
+"investment opportunity",2,357,2.45949620084308
+"growth option",2,106,2.45692567722112
+"operating performance",2,102,2.44773103139786
+"inflation rate",2,141,2.4475643331282
+"investment strategy",2,250,2.44686204922192
+"banking crisis",2,118,2.44560078542407
+"foreign investor",2,332,2.44428377374496
+"macroeconomic news",2,103,2.44146873057621
+"central bank",2,384,2.43908547668344
+"risky asset",2,276,2.43732793292652
+"macroeconomic announcement",2,102,2.43721147200567
+"positive return",2,125,2.43697653780159
+"future research",2,168,2.43681967535984
+"new model",2,117,2.43508307376767
+"higher risk",2,134,2.43486713950118
+"banking industry",2,260,2.4346724591046
+"financial friction",2,104,2.43362629072993
+"tail risk",2,200,2.43274742014008
+"market discipline",2,193,2.4305774413866
+"cap stock",2,109,2.43048473248308
+"market valuation",2,112,2.4300699239006
+"government bond",2,110,2.42998317215005
+"exogenous shock",2,120,2.4283513346956
+"dividend policy",2,371,2.42826595378889
+"higher return",2,291,2.42399675077021
+"currency risk",2,114,2.42156446994851
+"risk factor",2,332,2.42069040015123
+"portfolio risk",2,117,2.41517561454565
+"simple model",2,190,2.4144289772415
+"market data",2,114,2.41307132875087
+"financial intermediation",2,134,2.41143764323911
+"private information",2,633,2.40948956864508
+"financial intermediary",2,128,2.40804313605226
+"risk exposure",2,183,2.40788908339691
+"market quality",2,274,2.40602436998813
+"public information",2,188,2.40545551598547
+"security market",2,108,2.40452355869896
+"portfolio return",2,131,2.40430522581468
+"new information",2,212,2.40309184644001
+"serial correlation",2,114,2.40188008130081
+"investment horizon",2,184,2.40080153075397
+"price volatility",2,185,2.40045639762554
+"market integration",2,103,2.39911749046734
+"past return",2,123,2.39877331828871
+"other factor",2,172,2.39849355129949
+"new measure",2,180,2.39843665697684
+"more risk",2,124,2.3960018749722
+"lower bound",2,133,2.38875838926174
+"recent research",2,111,2.38744827699395
+"market model",2,134,2.38620240500813
+"selection bia",2,116,2.38420021595851
+"market volatility",2,267,2.38349575611242
+"barrier option",2,133,2.38286226812283
+"asset sale",2,103,2.38225620895342
+"share price",2,229,2.38180852960798
+"current account",2,148,2.37369335298239
+"trade credit",2,295,2.37291987701988
+"financial development",2,321,2.3728184571926
+"financial performance",2,229,2.37162203284593
+"investment decision",2,427,2.36991841216405
+"standard deviation",2,253,2.36950711791566
+"volatility index",2,137,2.36637920778967
+"derivative market",2,111,2.36608360030991
+"alternative measure",2,203,2.36539602707495
+"european country",2,186,2.36507617762948
+"share market",2,122,2.36484788809486
+"market share",2,191,2.36484788809486
+"agency problem",2,348,2.3625572985396
+"small business",2,120,2.35993279383213
+"financing decision",2,108,2.35982533646306
+"executive compensation",2,291,2.35779041780343
+"volatility spillover",2,246,2.3574692573994
+"arbitrage opportunity",2,116,2.356838628648
+"trading behavior",2,116,2.35442393308463
+"diffusion model",2,107,2.34854782485354
+"yield spread",2,189,2.34761285512849
+"order imbalance",2,130,2.34716570928464
+"control rights",2,114,2.34678907015622
+"asymmetric information",2,554,2.34630830985465
+"bank capital",2,131,2.34599797016006
+"average return",2,222,2.34434307111653
+"debt financing",2,134,2.3386444336482
+"technical analysis",2,128,2.33837383463288
+"financial stability",2,276,2.3377852089269
+"utility function",2,137,2.33734334580056
+"term debt",2,281,2.3369917713422
+"managerial entrenchment",2,105,2.3353958399102
+"market segmentation",2,117,2.33164353946762
+"board structure",2,108,2.3306805180267
+"market participant",2,385,2.32924595293221
+"liquidity premium",2,103,2.32824068445201
+"regression analysis",2,123,2.32480836382316
+"information environment",2,130,2.32316167902088
+"announcement return",2,117,2.32113936774639
+"market order",2,118,2.31988250840818
+"small stock",2,118,2.31741967924036
+"different measure",2,103,2.31638305866308
+"price level",2,104,2.31359872205873
+"financial innovation",2,111,2.31035472244703
+"political uncertainty",2,122,2.30716380117627
+"relative performance",2,138,2.30634458685619
+"rational expectation",2,123,2.30235585156993
+"financing constraint",2,110,2.30157175637269
+"financial institution",2,592,2.30035596976278
+"security return",2,105,2.29863421653511
+"outside directors",2,119,2.29858667557048
+"limit order",2,238,2.2972375494562
+"dividend yield",2,235,2.29616666658395
+"frequency data",2,171,2.29545193087039
+"fund performance",2,192,2.29266655858999
+"factor model",2,641,2.29235602294058
+"momentum strategy",2,176,2.29088192053641
+"new method",2,157,2.290407429691
+"investor protection",2,185,2.29002288299321
+"volatility risk",2,116,2.28847680267954
+"insider trading",2,212,2.2857859667321
+"equity issue",2,105,2.28573689307394
+"return volatility",2,193,2.27760641394857
+"price efficiency",2,109,2.27719980308232
+"trading volume",2,346,2.27060697872009
+"structural change",2,159,2.26899082498996
+"dividend payout",2,160,2.26853800675132
+"unique dataset",2,184,2.26498924019202
+"different level",2,119,2.26346515099138
+"bad news",2,236,2.26287173701858
+"conventional wisdom",2,118,2.26125189107413
+"capital regulation",2,118,2.2605560948087
+"stock liquidity",2,226,2.26030692707951
+"market efficiency",2,437,2.2602391615692
+"market liquidity",2,320,2.25729944892533
+"risk measure",2,296,2.25453703478443
+"financial flexibility",2,111,2.25359018196545
+"economic fundamentals",2,120,2.25303634005314
+"theoretical model",2,262,2.25085265049069
+"retail investor",2,235,2.24257823969588
+"ownership concentration",2,170,2.2391811178117
+"bank loan",2,279,2.23743416440853
+"fair value",2,104,2.23736705678048
+"short interest",2,117,2.23714962637092
+"more information",2,110,2.23567627043389
+"share repurchase",2,273,2.23565530454996
+"insurance company",2,221,2.23337654278216
+"poor performance",2,146,2.23269017177671
+"market timing",2,140,2.22706176949118
+"good news",2,133,2.22536283242107
+"political connection",2,198,2.22308583279438
+"trading day",2,117,2.22095515895419
+"lower level",2,186,2.21954477647816
+"value premium",2,212,2.21942100176195
+"new approach",2,243,2.21707248877326
+"higher level",2,425,2.216968437828
+"financial leverage",2,201,2.21293620814933
+"institutional investor",2,1158,2.21166094879427
+"earning announcement",2,378,2.21053168875452
+"negative correlation",2,104,2.20919553031147
+"adverse effect",2,136,2.20843999736917
+"book ratio",2,111,2.20612358655837
+"form solutions",2,102,2.20389199327889
+"sale constraint",2,155,2.19717006699819
+"data set",2,212,2.19472203235361
+"private benefit",2,186,2.19469208248534
+"financial analyst",2,188,2.1919707939029
+"economic value",2,131,2.18981183153617
+"earning quality",2,126,2.18952734883241
+"investment performance",2,116,2.18844189016866
+"empirical test",2,283,2.18785845051374
+"portfolio performance",2,123,2.18747608975952
+"model specification",2,118,2.18373270935947
+"term performance",2,155,2.17669615216167
+"natural experiment",2,293,2.17592448512586
+"home bia",2,155,2.17381133937382
+"result reveal",2,112,2.17319594069285
+"regulatory change",2,111,2.17300222460417
+"information content",2,548,2.16921352963487
+"return distribution",2,184,2.16714695262827
+"liquidity provision",2,127,2.16693763949366
+"prior research",2,242,2.16561691478554
+"stock split",2,195,2.16345544907279
+"bank risk",2,320,2.16242619777254
+"liquidity risk",2,371,2.16228049549246
+"new insight",2,171,2.16185765810806
+"investment efficiency",2,127,2.16184379430521
+"cross-sectional variation",2,243,2.16001205030727
+"investment bank",2,166,2.15904978394143
+"positive correlation",2,115,2.15732920455153
+"further analysis",2,261,2.15607364501411
+"cross section",2,243,2.15296446899245
+"event study methodology",3,69,2.15280223461069
+"portfolio choice",2,150,2.15168004534843
+"value stock",2,154,2.15148724438945
+"previous research",2,289,2.15057688422109
+"liquidity shocks",2,107,2.15045871273015
+"market value",2,440,2.14847976623527
+"managerial incentive",2,107,2.14812216735884
+"superior performance",2,186,2.14806098577601
+"empirical analysis",2,714,2.14637688720683
+"high volatility",2,122,2.14200339601654
+"agency theory",2,113,2.13962306958672
+"bank lending",2,124,2.13772314930137
+"price change",2,221,2.13734725023385
+"chinese firm",2,155,2.13695649760285
+"earning forecast",2,173,2.13408729828301
+"policy implication",2,155,2.1339555208864
+"insider ownership",2,115,2.13284790442559
+"minority shareholder",2,159,2.11810565571941
+"end fund",2,168,2.11384790972392
+"information asymmetry",2,918,2.11327370885714
+"information share",2,111,2.10950333012367
+"significant increase",2,248,2.10784884911117
+"level data",2,231,2.10015367364481
+"present value",2,128,2.09960524821724
+"information production",2,106,2.09727571135558
+"model uncertainty",2,107,2.09685975985437
+"bank debt",2,116,2.09502229216693
+"fund manager",2,323,2.09083275939558
+"japanese firm",2,101,2.09027632134346
+"important factor",2,182,2.08942138918233
+"state variable",2,138,2.08710830825673
+"analyst coverage",2,193,2.08620489083636
+"large bank",2,132,2.08488552312471
+"asian country",2,105,2.08430222757375
+"state ownership",2,134,2.08428384117529
+"international evidence",2,222,2.08296106966276
+"recent year",2,343,2.07443882882725
+"debt maturity",2,130,2.07110818944892
+"day return",2,109,2.0705816473551
+"informational efficiency",2,143,2.06683020325613
+"financial firm",2,122,2.0654158876595
+"leverage ratio",2,146,2.06405679472388
+"asymmetric effect",2,121,2.06384598436229
+"model parameter",2,103,2.05944651520428
+"lower cost",2,163,2.05888982589807
+"negative effect",2,413,2.05692532226183
+"large shareholder",2,125,2.05582072421717
+"economic significance",2,110,2.05544728252432
+"high level",2,382,2.05514572044973
+"agency cost",2,416,2.05307530968326
+"time series",2,269,2.05181854798815
+"return predictability",2,230,2.0508302732348
+"strong support",2,146,2.0463131944201
+"spillover effect",2,231,2.0457223534751
+"default probability",2,160,2.04545260400353
+"shareholder wealth",2,154,2.04487114118847
+"option value",2,125,2.03820275765018
+"ceo compensation",2,210,2.03613447345347
+"private firm",2,309,2.03590950321082
+"public firm",2,230,2.03187545055121
+"alternative explanation",2,145,2.03091459080215
+"percentage point",2,182,2.02714627594077
+"performance measure",2,177,2.02683750999829
+"statistical significance",2,109,2.02567917848305
+"term investor",2,102,2.01910324887887
+"empirical support",2,146,2.0170136056212
+"wide range",2,220,2.01452627285996
+"ceo turnover",2,219,2.01019756525054
+"euro area",2,214,2.00606683288127
+"positive effect",2,411,2.00505899650189
+"different type",2,331,2.00428107628262
+"financial economics",2,101,2.00377584120866
+"exclusive licence",2,130,2.00317047123215
+"board independence",2,167,2.00031875557822
+"blackwell publishers",2,104,2
+"momentum profit",2,136,1.99850208581175
+"agency conflict",2,171,1.99694924500926
+"significant change",2,134,1.99619616631941
+"predictive ability",2,155,1.99468180245983
+"independent directors",2,181,1.99425255097053
+"market economie",2,107,1.99397601229236
+"individual investor",2,472,1.9935497991773
+"control shareholder",2,119,1.99287959290578
+"emerald backfiles",2,118,1.99159663865546
+"survey data",2,102,1.99110596092504
+"portfolio manager",2,171,1.9856422905651
+"cryptocurrency market",2,129,1.98555962678349
+"low level",2,159,1.98257853394657
+"negative relationship",2,230,1.9823440486819
+"order book",2,103,1.98054499732705
+"informational advantage",2,108,1.97276877091262
+"recent study",2,159,1.96768378156069
+"ask spread",2,345,1.96599442025181
+"causal effect",2,130,1.96301414982991
+"negative relation",2,298,1.96235686458218
+"quasi-natural experiment",2,115,1.95361417322835
+"sufficient condition",2,101,1.95098313104055
+"value creation",2,131,1.94994135878044
+"significant effect",2,321,1.9475584097868
+"investor sentiment",2,505,1.9414080155594
+"averse investor",2,113,1.94052064493137
+"growth firm",2,109,1.93827806240076
+"bank performance",2,170,1.93472667298641
+"positive relationship",2,315,1.93047772292196
+"performance sensitivity",2,103,1.918540558803
+"empirical investigation",2,249,1.91330044676098
+"information advantage",2,106,1.91083317125451
+"positive relation",2,363,1.91049053882225
+"long memory",2,185,1.90827973928891
+"bank efficiency",2,113,1.90812857712296
+"empirical literature",2,134,1.89755216952139
+"valuation effect",2,144,1.89226304043706
+"diversified firm",2,103,1.88993775146264
+"basis point",2,345,1.88909870178664
+"prior literature",2,134,1.88877624555703
+"wealth effect",2,256,1.88823964107871
+"firm risk",2,149,1.88561215881334
+"disposition effect",2,211,1.88162066589095
+"previous literature",2,126,1.87373621499258
+"significant relationship",2,106,1.87297713620686
+"transaction cost",2,833,1.87148592742034
+"return relation",2,125,1.87129105234462
+"other firm",2,213,1.8634153099616
+"theoretical prediction",2,158,1.86177215867701
+"same time",2,233,1.85811272010408
+"short term",2,109,1.85466461770805
+"short run",2,169,1.84973082545023
+"non-financial firm",2,108,1.84845598414641
+"analyst forecast",2,104,1.84821460227669
+"noise trader",2,104,1.83342161320794
+"other country",2,178,1.82401661099576
+"past year",2,110,1.82076185409599
+"price impact",2,260,1.81609769218274
+"insider trade",2,130,1.81354380649091
+"fundamental value",2,180,1.81239652333561
+"diversification benefit",2,198,1.81119260025168
+"book value",2,122,1.80914225515415
+"large sample",2,439,1.80831814808609
+"large firm",2,263,1.80807148416551
+"firm valuation",2,118,1.80114530049515
+"trade volume",2,168,1.7983648184789
+"crisis period",2,291,1.79638311567659
+"other hand",2,387,1.79402806331156
+"cost efficiency",2,144,1.78666655588305
+"negative impact",2,255,1.78431352074333
+"practical implication",2,509,1.7842213877855
+"short position",2,118,1.78397151712503
+"new evidence",2,522,1.77321862654203
+"long term",2,106,1.76837104729831
+"shareholder value",2,200,1.76730438288149
+"long run",2,370,1.76343725504049
+"causality test",2,113,1.76258308269819
+"significant difference",2,257,1.75675450159158
+"empirical study",2,413,1.75462834331664
+"short sale",2,152,1.75191559063955
+"short selling",2,158,1.74669452181987
+"prior study",2,254,1.74585241935228
+"ipo firm",2,129,1.74010663808554
+"target firm",2,265,1.73426728800392
+"numerical example",2,163,1.73402919775109
+"empirical application",2,111,1.73357937697287
+"oecd country",2,146,1.73294577352472
+"positive impact",2,224,1.73244719498339
+"previous study",2,602,1.73081238878782
+"bank size",2,107,1.73048676170573
+"firm characteristic",2,293,1.72277921681687
+"sample forecast",2,101,1.72190635995387
+"inflation expectation",2,106,1.7214233409611
+"board composition",2,106,1.72009173622077
+"liquidity effect",2,112,1.71949256546179
+"bank competition",2,112,1.71889058043722
+"bank failure",2,112,1.71568344136881
+"significant determinant",2,128,1.708992627341
+"investor attention",2,172,1.70677357907538
+"family firm",2,260,1.69122034743689
+"strong evidence",2,572,1.68936600786949
+"first time",2,144,1.68636157059449
+"small firm",2,380,1.68548757768073
+"significant role",2,153,1.68412809528097
+"present evidence",2,157,1.67546343976446
+"significant impact",2,419,1.67494660826829
+"performance persistence",2,112,1.67411773644637
+"further evidence",2,154,1.66976317687787
+"firm level",2,129,1.66771345714016
+"robustness test",2,101,1.66389888398974
+"empirical evidence",2,1340,1.66006641907059
+"sample performance",2,118,1.65815929794779
+"firm performance",2,804,1.6579126340272
+"trade size",2,104,1.65483935534602
+"possible explanation",2,111,1.65428575515692
+"endogeneity concern",2,121,1.65319667088553
+"larger firm",2,121,1.64155152933463
+"relative importance",2,176,1.63043904340321
+"contagion effect",2,132,1.629289824942
+"sample test",2,119,1.62345202974079
+"event study",2,176,1.61940243401249
+"earlier study",2,123,1.61639474147544
+"special case",2,139,1.60971018852558
+"great recession",2,109,1.60548085215114
+"leverage effect",2,144,1.5903445492725
+"numerical result",2,140,1.56979958880578
+"smaller firm",2,137,1.55824279015778
+"time variation",2,217,1.5489722864155
+"empirical result",2,1167,1.54534026531912
+"size effect",2,142,1.54479046268843
+"important implication",2,267,1.54255240342406
+"firm value",2,1074,1.51955514282983
+"last year",2,102,1.5074018841643
+"large number",2,284,1.49243029331655
+"main result",2,196,1.48053892535921
+"first study",2,170,1.47287793036228
+"empirical finding",2,339,1.47163389719801
+"last decade",2,105,1.45795339412361
+"firm size",2,515,1.45367272274652
+"time period",2,276,1.42540785223712
+"value relevance",2,106,1.41259953620472
+"little evidence",2,292,1.41227146021906
+"important determinant",2,322,1.40689510534055
+"main finding",2,250,1.4068325572381
+"high degree",2,106,1.40418338636833
+"important role",2,544,1.38203057328052
+"sample period",2,558,1.37390210614317
+"small number",2,102,1.36984638683177
+"sample firm",2,101,1.35195315276136
+"short seller",2,199,1.31906093403361
+"year period",2,302,1.31867925927146
+"similar result",2,112,1.29163100221987
+"paper test",2,136,1.05632160777184
+"case study",2,145,0.945559222226894
+"robust evidence",2,142,0.809841736505723
+"evidence consistent",2,184,0.665472139488339

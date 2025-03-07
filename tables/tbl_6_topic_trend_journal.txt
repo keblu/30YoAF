@@ -1,0 +1,44 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Mon Nov 07 11:56:18 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{lll}
+  \hline
+journal & max_move & min_move \\ 
+  \hline
+EFM & \textsf{Corporate Social Responsability} (1.94),\textsf{Household Credit/Economic Crash} (1.45) & \textsf{Market Anomaly} (-1.24),\textsf{Ipo} (-1.12)  \\ 
+  EJF & \textsf{Household Credit/Economic Crash} (1.93),\textsf{Corporate Social Responsability} (1.73) & \textsf{Market Anomaly} (-2.28),\textsf{Volatility} (-1.65)  \\ 
+  FAJ & \textsf{Contagion/Spillover} (3.09),\textsf{Hedging} (2.49) & \textsf{Option Pricing} (-3.22),\textsf{Portfolio Strategy} (-2.17)  \\ 
+  FM & \textsf{Fund Performance} (1.77),\textsf{Decision-Making Process} (1.63) & \textsf{Market Anomaly} (-1.05),\textsf{Ipo} (-0.81)  \\ 
+  FR & \textsf{Corporate Social Responsability} (3.47),\textsf{Factor Model} (1.21) & \textsf{Capital Structure} (-1.11),\textsf{Corporate Announcement} (-1.08)  \\ 
+  FRL & \textsf{Corporate Social Responsability} (1.85),\textsf{Board/Executive} (1.32) & \textsf{Market Anomaly} (-1.78),\textsf{Currency} (-1.58)  \\ 
+  IRFA & \textsf{Corporate Social Responsability} (1.80),\textsf{Contagion/Spillover} (1.52) & \textsf{Interest Rate} (-1.57),\textsf{Market Anomaly} (-1.55)  \\ 
+  JB & \textsf{Corporate Social Responsability} (1.36),\textsf{Household Credit/Economic Crash} (1.33) & \textsf{Banking Efficiency} (-1.26),\textsf{Interest Rate} (-1.07)  \\ 
+  JBF & \textsf{Firm Valuation} (0.89),\textsf{Fund Performance} (0.81) & \textsf{Insurance System} (-2.02),\textsf{Payout Policy} (-1.32)  \\ 
+  JCF & \textsf{Corporate Social Responsability} (2.58),\textsf{Household Credit/Economic Crash} (1.74) & \textsf{Ownership} (-2.03),\textsf{Ipo} (-1.16)  \\ 
+  JD & \textsf{Political Relationship/Corruption} (1.67),\textsf{Option Pricing} (1.26) & \textsf{Insurance System} (-0.80),\textsf{Interest Rate} (-0.80)  \\ 
+  JEF & \textsf{Corporate Social Responsability} (1.67),\textsf{Household Credit/Economic Crash} (1.60) & \textsf{Volatility} (-2.23),\textsf{Market Anomaly} (-1.84)  \\ 
+  JF & \textsf{Household Credit/Economic Crash} (2.28),\textsf{Political Relationship/Corruption} (1.38) & \textsf{Market Anomaly} (-1.44),\textsf{Volatility} (-0.94)  \\ 
+  JFE & \textsf{Corporate Social Responsability} (2.63),\textsf{Household Credit/Economic Crash} (1.70) & \textsf{Market Anomaly} (-1.61),\textsf{Option Pricing} (-1.32)  \\ 
+  JFI & \textsf{Household Credit/Economic Crash} (2.06),\textsf{Contagion/Spillover} (1.36) & \textsf{Ipo} (-1.41),\textsf{Corporate Announcement} (-1.11)  \\ 
+  JFM & \textsf{Bank Liquidity} (2.87),\textsf{Household Credit/Economic Crash} (2.67) & \textsf{Insurance System} (-4.71),\textsf{Trading/Liquidity} (-1.41)  \\ 
+  JFMKT & \textsf{Household Credit/Economic Crash} (1.58),\textsf{Contagion/Spillover} (1.56) & \textsf{Trading/Liquidity} (-4.23),\textsf{Real Estate/Bubble} (-1.59)  \\ 
+  JFQA & \textsf{Corporate Social Responsability} (1.71),\textsf{Household Credit/Economic Crash} (1.51) & \textsf{Market Anomaly} (-2.06),\textsf{Interest Rate} (-1.12)  \\ 
+  JFR & \textsf{Residential Market} (3.86),\textsf{Household Credit/Economic Crash} (1.25) & \textsf{Insurance System} (-2.11),\textsf{Market Anomaly} (-1.52)  \\ 
+  JFSR & \textsf{Contagion/Spillover} (1.86),\textsf{Factor Model} (1.46) & \textsf{Volatility} (-1.54),\textsf{Market Anomaly} (-0.96)  \\ 
+  JIFMIM & \textsf{Corporate Social Responsability} (2.08),\textsf{Household Credit/Economic Crash} (1.70) & \textsf{Currency} (-2.67),\textsf{Volatility} (-2.39)  \\ 
+  JIMF & \textsf{Household Credit/Economic Crash} (2.28),\textsf{Contagion/Spillover} (1.56) & \textsf{Currency} (-1.72),\textsf{Volatility} (-1.66)  \\ 
+  JMCB & \textsf{Household Credit/Economic Crash} (2.97),\textsf{Political Relationship/Corruption} (1.32) & \textsf{Banking Efficiency} (-1.03),\textsf{Ipo} (-0.93)  \\ 
+  JPM & \textsf{Political Relationship/Corruption} (1.50),\textsf{Hedging} (1.14) & \textsf{Insurance System} (-0.92),\textsf{Market Anomaly} (-0.79)  \\ 
+  JREFE & \textsf{Residential Market} (2.55),\textsf{Household Credit/Economic Crash} (1.26) & \textsf{Insurance System} (-1.09),\textsf{Interest Rate} (-1.03)  \\ 
+  JRI & \textsf{Risk Management} (2.69),\textsf{Household Credit/Economic Crash} (1.29) & \textsf{Insurance System} (-0.97),\textsf{Corporate Announcement} (-0.71)  \\ 
+  MANF & \textsf{Corporate Social Responsability} (1.01),\textsf{Factor Model} (0.40) & \textsf{Insurance System} (-1.60),\textsf{Currency} (-1.40)  \\ 
+  PBFJ & \textsf{Corporate Social Responsability} (2.13),\textsf{Political Relationship/Corruption} (1.54) & \textsf{Market Anomaly} (-2.25),\textsf{Volatility} (-1.51)  \\ 
+  QF & \textsf{Household Credit/Economic Crash} (1.18),\textsf{Hedging} (0.97) & \textsf{Option Pricing} (-1.67),\textsf{Market Anomaly} (-1.14)  \\ 
+  RF & \textsf{Political Relationship/Corruption} (5.67),\textsf{Household Credit/Economic Crash} (2.39) & \textsf{Option Pricing} (-2.20),\textsf{Insurance System} (-1.43)  \\ 
+  RFS & \textsf{Political Relationship/Corruption} (5.98),\textsf{Household Credit/Economic Crash} (2.21) & \textsf{Option Pricing} (-1.64),\textsf{Market Anomaly} (-1.45)  \\ 
+  RQFA & \textsf{Residential Market} (3.03),\textsf{Corporate Social Responsability} (1.80) & \textsf{Market Anomaly} (-1.55),\textsf{Interest Rate} (-1.46)  \\ 
+   \hline
+\end{tabular}
+\end{table}
+

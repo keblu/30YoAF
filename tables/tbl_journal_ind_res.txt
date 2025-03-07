@@ -1,0 +1,1888 @@
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: EFM}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in EFM, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Currency} & 4.28 & 4.37 \\ 
+\textsf{Board/Executive} & 2.63 & 3.43 \\ 
+\textsf{Corporate Social Responsability} & 2.11 & 3.41 \\ 
+\textsf{Trading/Liquidity} & 4.21 & 3.35 \\ 
+\textsf{Fund Performance} & 2.69 & 3.32 \\ 
+\textsf{Factor Model} & 2.70 & 3.16 \\ 
+\textsf{Bank Liquidity} & 2.63 & 3.02 \\ 
+\textsf{Portfolio Strategy} & 3.17 & 3.02 \\ 
+\textsf{Option Pricing} & 4.02 & 2.99 \\ 
+\textsf{Return Predictability} & 3.41 & 2.92 \\ 
+\textsf{Emerging Country} & 2.72 & 2.89 \\ 
+\textsf{Contagion/Spillover} & 2.25 & 2.87 \\ 
+\textsf{Monetary Policy} & 2.82 & 2.71 \\ 
+\textsf{Debt Governance} & 2.34 & 2.52 \\ 
+\textsf{Market Anomaly} & 3.63 & 2.48 \\ 
+\textsf{Corporate Investment} & 1.83 & 2.39 \\ 
+\textsf{Decision-Making Process} & 1.88 & 2.39 \\ 
+\textsf{Volatility} & 2.58 & 2.17 \\ 
+\textsf{Firm Earnings} & 2.29 & 2.15 \\ 
+\textsf{Merger/Acquisition} & 2.22 & 2.10 \\ 
+\textsf{Ownership} & 2.25 & 2.04 \\ 
+\textsf{Disclosure} & 1.55 & 1.99 \\ 
+\textsf{Household Credit/Economic Crash} & 1.39 & 1.96 \\ 
+\textsf{Corporate Announcement} & 2.28 & 1.94 \\ 
+\textsf{IPO} & 2.76 & 1.94 \\ 
+\textsf{Debt Financing} & 1.74 & 1.93 \\ 
+\textsf{Capital Structure} & 1.92 & 1.85 \\ 
+\textsf{Interest Rate} & 2.63 & 1.85 \\ 
+\textsf{Real Estate/Bubble} & 2.39 & 1.77 \\ 
+\textsf{Risk Management} & 1.46 & 1.74 \\ 
+\textsf{Bond Market} & 1.69 & 1.73 \\ 
+\textsf{Retail Payment System} & 1.74 & 1.71 \\ 
+\textsf{Analyst} & 1.57 & 1.70 \\ 
+\textsf{Retirement/Annuity Market} & 1.53 & 1.69 \\ 
+\textsf{Credit Risk} & 1.78 & 1.69 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.34 & 1.67 \\ 
+\textsf{Hedging} & 1.40 & 1.66 \\ 
+\textsf{Political Relationship/Corruption} & 1.20 & 1.64 \\ 
+\textsf{Banking Efficiency} & 1.74 & 1.50 \\ 
+\textsf{Insurance System} & 1.74 & 1.48 \\ 
+\textsf{Payout Policy} & 1.65 & 1.47 \\ 
+\textsf{Residential Market} & 1.49 & 1.47 \\ 
+\textsf{Concentration/Competition} & 1.58 & 1.46 \\ 
+\textsf{Firm Diversification} & 1.29 & 1.24 \\ 
+\textsf{Firm Valuation} & 1.48 & 1.23 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: EJF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in EJF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Bank Liquidity} & 2.50 & 3.65 \\ 
+\textsf{Trading/Liquidity} & 4.33 & 3.62 \\ 
+\textsf{Contagion/Spillover} & 2.51 & 3.49 \\ 
+\textsf{Option Pricing} & 4.65 & 3.40 \\ 
+\textsf{Emerging Country} & 2.63 & 3.25 \\ 
+\textsf{Portfolio Strategy} & 3.89 & 3.17 \\ 
+\textsf{Board/Executive} & 2.26 & 3.02 \\ 
+\textsf{Monetary Policy} & 3.21 & 3.02 \\ 
+\textsf{Return Predictability} & 3.89 & 2.93 \\ 
+\textsf{Factor Model} & 2.77 & 2.90 \\ 
+\textsf{Market Anomaly} & 5.22 & 2.90 \\ 
+\textsf{Fund Performance} & 2.63 & 2.82 \\ 
+\textsf{Corporate Social Responsability} & 1.68 & 2.76 \\ 
+\textsf{Currency} & 3.05 & 2.40 \\ 
+\textsf{Household Credit/Economic Crash} & 1.36 & 2.38 \\ 
+\textsf{Decision-Making Process} & 2.05 & 2.32 \\ 
+\textsf{Volatility} & 3.49 & 2.28 \\ 
+\textsf{Debt Governance} & 1.87 & 2.14 \\ 
+\textsf{Firm Earnings} & 2.44 & 2.12 \\ 
+\textsf{Corporate Investment} & 1.80 & 2.11 \\ 
+\textsf{Debt Financing} & 1.56 & 2.08 \\ 
+\textsf{Interest Rate} & 2.96 & 2.08 \\ 
+\textsf{Real Estate/Bubble} & 2.44 & 1.97 \\ 
+\textsf{Ownership} & 1.79 & 1.91 \\ 
+\textsf{Merger/Acquisition} & 1.86 & 1.90 \\ 
+\textsf{Hedging} & 1.44 & 1.87 \\ 
+\textsf{IPO} & 2.20 & 1.86 \\ 
+\textsf{Bond Market} & 1.68 & 1.84 \\ 
+\textsf{Retirement/Annuity Market} & 1.51 & 1.80 \\ 
+\textsf{Capital Structure} & 1.64 & 1.80 \\ 
+\textsf{Corporate Announcement} & 1.98 & 1.80 \\ 
+\textsf{Disclosure} & 1.46 & 1.80 \\ 
+\textsf{Risk Management} & 1.48 & 1.78 \\ 
+\textsf{Banking Efficiency} & 1.81 & 1.78 \\ 
+\textsf{Insurance System} & 1.73 & 1.77 \\ 
+\textsf{Credit Risk} & 1.67 & 1.76 \\ 
+\textsf{Retail Payment System} & 1.67 & 1.75 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.17 & 1.67 \\ 
+\textsf{Concentration/Competition} & 1.66 & 1.60 \\ 
+\textsf{Analyst} & 1.52 & 1.59 \\ 
+\textsf{Residential Market} & 1.48 & 1.59 \\ 
+\textsf{Political Relationship/Corruption} & 0.96 & 1.52 \\ 
+\textsf{Payout Policy} & 1.53 & 1.46 \\ 
+\textsf{Firm Diversification} & 1.31 & 1.22 \\ 
+\textsf{Firm Valuation} & 1.26 & 1.11 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: FAJ}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in FAJ, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Contagion/Spillover} & 2.87 & 6.38 \\ 
+\textsf{Trading/Liquidity} & 3.94 & 3.69 \\ 
+\textsf{Emerging Country} & 2.43 & 3.61 \\ 
+\textsf{Bank Liquidity} & 2.48 & 3.50 \\ 
+\textsf{Corporate Social Responsability} & 1.81 & 3.45 \\ 
+\textsf{Market Anomaly} & 3.92 & 3.20 \\ 
+\textsf{Factor Model} & 2.92 & 3.19 \\ 
+\textsf{Hedging} & 1.64 & 3.17 \\ 
+\textsf{Board/Executive} & 2.49 & 3.03 \\ 
+\textsf{Monetary Policy} & 3.61 & 2.84 \\ 
+\textsf{Volatility} & 3.07 & 2.71 \\ 
+\textsf{Return Predictability} & 4.22 & 2.56 \\ 
+\textsf{Option Pricing} & 5.69 & 2.46 \\ 
+\textsf{Portfolio Strategy} & 4.30 & 2.44 \\ 
+\textsf{Fund Performance} & 2.37 & 2.43 \\ 
+\textsf{Household Credit/Economic Crash} & 1.55 & 2.41 \\ 
+\textsf{Currency} & 2.53 & 2.32 \\ 
+\textsf{Decision-Making Process} & 2.03 & 2.18 \\ 
+\textsf{Firm Earnings} & 2.16 & 2.09 \\ 
+\textsf{Real Estate/Bubble} & 2.21 & 2.08 \\ 
+\textsf{Debt Governance} & 1.91 & 2.01 \\ 
+\textsf{Debt Financing} & 1.72 & 1.98 \\ 
+\textsf{Corporate Investment} & 1.90 & 1.88 \\ 
+\textsf{Merger/Acquisition} & 1.78 & 1.83 \\ 
+\textsf{Political Relationship/Corruption} & 1.06 & 1.83 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.17 & 1.83 \\ 
+\textsf{Banking Efficiency} & 1.60 & 1.82 \\ 
+\textsf{Disclosure} & 1.44 & 1.80 \\ 
+\textsf{Ownership} & 1.78 & 1.73 \\ 
+\textsf{Concentration/Competition} & 1.51 & 1.72 \\ 
+\textsf{Corporate Announcement} & 1.51 & 1.66 \\ 
+\textsf{Interest Rate} & 2.81 & 1.65 \\ 
+\textsf{Analyst} & 1.58 & 1.64 \\ 
+\textsf{Retirement/Annuity Market} & 1.67 & 1.59 \\ 
+\textsf{Retail Payment System} & 1.54 & 1.58 \\ 
+\textsf{Bond Market} & 1.83 & 1.57 \\ 
+\textsf{Residential Market} & 1.55 & 1.55 \\ 
+\textsf{IPO} & 1.97 & 1.53 \\ 
+\textsf{Risk Management} & 1.78 & 1.48 \\ 
+\textsf{Capital Structure} & 1.85 & 1.47 \\ 
+\textsf{Credit Risk} & 2.02 & 1.44 \\ 
+\textsf{Insurance System} & 1.67 & 1.42 \\ 
+\textsf{Payout Policy} & 1.47 & 1.27 \\ 
+\textsf{Firm Diversification} & 1.37 & 1.03 \\ 
+\textsf{Firm Valuation} & 1.26 & 0.97 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: FM}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in FM, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Portfolio Strategy} & 5.13 & 6.34 \\ 
+\textsf{Fund Performance} & 3.57 & 5.62 \\ 
+\textsf{Decision-Making Process} & 2.98 & 4.53 \\ 
+\textsf{Factor Model} & 3.45 & 4.25 \\ 
+\textsf{Trading/Liquidity} & 3.62 & 3.26 \\ 
+\textsf{Return Predictability} & 3.72 & 3.09 \\ 
+\textsf{Option Pricing} & 3.76 & 2.93 \\ 
+\textsf{Monetary Policy} & 2.93 & 2.81 \\ 
+\textsf{Contagion/Spillover} & 2.08 & 2.58 \\ 
+\textsf{Board/Executive} & 2.40 & 2.57 \\ 
+\textsf{Market Anomaly} & 3.66 & 2.50 \\ 
+\textsf{Retirement/Annuity Market} & 2.05 & 2.39 \\ 
+\textsf{Emerging Country} & 2.31 & 2.33 \\ 
+\textsf{Bank Liquidity} & 2.08 & 2.20 \\ 
+\textsf{Hedging} & 1.61 & 2.14 \\ 
+\textsf{Corporate Investment} & 2.03 & 2.12 \\ 
+\textsf{Household Credit/Economic Crash} & 1.48 & 2.09 \\ 
+\textsf{Volatility} & 2.44 & 2.07 \\ 
+\textsf{Firm Earnings} & 2.51 & 2.02 \\ 
+\textsf{Interest Rate} & 2.36 & 1.96 \\ 
+\textsf{Bond Market} & 1.88 & 1.95 \\ 
+\textsf{Corporate Announcement} & 2.38 & 1.86 \\ 
+\textsf{Disclosure} & 1.74 & 1.86 \\ 
+\textsf{Analyst} & 2.07 & 1.84 \\ 
+\textsf{Real Estate/Bubble} & 2.29 & 1.82 \\ 
+\textsf{Risk Management} & 1.72 & 1.82 \\ 
+\textsf{Political Relationship/Corruption} & 1.22 & 1.78 \\ 
+\textsf{Corporate Social Responsability} & 1.58 & 1.74 \\ 
+\textsf{Credit Risk} & 1.78 & 1.67 \\ 
+\textsf{Currency} & 1.94 & 1.64 \\ 
+\textsf{Debt Governance} & 1.79 & 1.64 \\ 
+\textsf{Retail Payment System} & 1.77 & 1.58 \\ 
+\textsf{Merger/Acquisition} & 1.61 & 1.54 \\ 
+\textsf{Concentration/Competition} & 1.61 & 1.54 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.37 & 1.54 \\ 
+\textsf{Ownership} & 1.77 & 1.53 \\ 
+\textsf{Debt Financing} & 1.50 & 1.52 \\ 
+\textsf{Capital Structure} & 1.67 & 1.50 \\ 
+\textsf{IPO} & 2.04 & 1.48 \\ 
+\textsf{Insurance System} & 1.92 & 1.47 \\ 
+\textsf{Payout Policy} & 1.65 & 1.44 \\ 
+\textsf{Firm Valuation} & 1.83 & 1.44 \\ 
+\textsf{Residential Market} & 1.49 & 1.39 \\ 
+\textsf{Banking Efficiency} & 1.65 & 1.31 \\ 
+\textsf{Firm Diversification} & 1.59 & 1.29 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: FR}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in FR, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Corporate Social Responsability} & 3.28 & 8.68 \\ 
+\textsf{Board/Executive} & 3.23 & 4.02 \\ 
+\textsf{Trading/Liquidity} & 3.94 & 3.69 \\ 
+\textsf{Factor Model} & 2.65 & 3.66 \\ 
+\textsf{Fund Performance} & 2.47 & 3.01 \\ 
+\textsf{Debt Governance} & 2.96 & 2.70 \\ 
+\textsf{Option Pricing} & 3.76 & 2.67 \\ 
+\textsf{Return Predictability} & 2.80 & 2.62 \\ 
+\textsf{Firm Earnings} & 2.59 & 2.55 \\ 
+\textsf{Corporate Investment} & 2.78 & 2.52 \\ 
+\textsf{IPO} & 3.47 & 2.50 \\ 
+\textsf{Bank Liquidity} & 2.27 & 2.47 \\ 
+\textsf{Emerging Country} & 2.16 & 2.40 \\ 
+\textsf{Ownership} & 3.03 & 2.38 \\ 
+\textsf{Merger/Acquisition} & 2.52 & 2.36 \\ 
+\textsf{Contagion/Spillover} & 1.85 & 2.33 \\ 
+\textsf{Market Anomaly} & 2.94 & 2.30 \\ 
+\textsf{Portfolio Strategy} & 2.53 & 2.26 \\ 
+\textsf{Disclosure} & 1.86 & 2.25 \\ 
+\textsf{Monetary Policy} & 2.27 & 2.24 \\ 
+\textsf{Decision-Making Process} & 1.96 & 2.20 \\ 
+\textsf{Corporate Announcement} & 3.12 & 2.17 \\ 
+\textsf{Debt Financing} & 1.90 & 1.99 \\ 
+\textsf{Analyst} & 1.66 & 1.97 \\ 
+\textsf{Household Credit/Economic Crash} & 1.45 & 1.95 \\ 
+\textsf{Capital Structure} & 2.81 & 1.94 \\ 
+\textsf{Volatility} & 1.99 & 1.68 \\ 
+\textsf{Retirement/Annuity Market} & 1.65 & 1.67 \\ 
+\textsf{Real Estate/Bubble} & 1.99 & 1.65 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.52 & 1.64 \\ 
+\textsf{Interest Rate} & 2.10 & 1.61 \\ 
+\textsf{Currency} & 1.81 & 1.60 \\ 
+\textsf{Bond Market} & 1.62 & 1.57 \\ 
+\textsf{Payout Policy} & 2.12 & 1.55 \\ 
+\textsf{Retail Payment System} & 1.96 & 1.53 \\ 
+\textsf{Banking Efficiency} & 1.75 & 1.45 \\ 
+\textsf{Credit Risk} & 1.60 & 1.42 \\ 
+\textsf{Hedging} & 1.22 & 1.41 \\ 
+\textsf{Residential Market} & 1.49 & 1.41 \\ 
+\textsf{Insurance System} & 2.02 & 1.40 \\ 
+\textsf{Risk Management} & 1.40 & 1.38 \\ 
+\textsf{Political Relationship/Corruption} & 1.04 & 1.33 \\ 
+\textsf{Firm Diversification} & 1.60 & 1.29 \\ 
+\textsf{Concentration/Competition} & 1.24 & 1.29 \\ 
+\textsf{Firm Valuation} & 1.62 & 1.27 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: FRL}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in FRL, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Trading/Liquidity} & 4.59 & 4.96 \\ 
+\textsf{Factor Model} & 3.11 & 3.44 \\ 
+\textsf{Market Anomaly} & 4.67 & 3.42 \\ 
+\textsf{Board/Executive} & 2.52 & 3.25 \\ 
+\textsf{Option Pricing} & 3.79 & 3.23 \\ 
+\textsf{Return Predictability} & 3.67 & 3.12 \\ 
+\textsf{Corporate Social Responsability} & 2.16 & 3.07 \\ 
+\textsf{Firm Earnings} & 3.02 & 2.96 \\ 
+\textsf{Fund Performance} & 2.47 & 2.82 \\ 
+\textsf{Contagion/Spillover} & 2.31 & 2.73 \\ 
+\textsf{Portfolio Strategy} & 3.05 & 2.72 \\ 
+\textsf{Currency} & 3.56 & 2.70 \\ 
+\textsf{Monetary Policy} & 2.91 & 2.69 \\ 
+\textsf{Emerging Country} & 2.29 & 2.64 \\ 
+\textsf{Bank Liquidity} & 2.38 & 2.60 \\ 
+\textsf{IPO} & 2.74 & 2.46 \\ 
+\textsf{Volatility} & 3.01 & 2.45 \\ 
+\textsf{Merger/Acquisition} & 2.21 & 2.24 \\ 
+\textsf{Debt Governance} & 2.11 & 2.24 \\ 
+\textsf{Corporate Investment} & 1.91 & 2.14 \\ 
+\textsf{Corporate Announcement} & 2.38 & 2.11 \\ 
+\textsf{Ownership} & 2.13 & 2.08 \\ 
+\textsf{Real Estate/Bubble} & 2.23 & 2.07 \\ 
+\textsf{Interest Rate} & 2.60 & 2.07 \\ 
+\textsf{Decision-Making Process} & 1.68 & 2.05 \\ 
+\textsf{Capital Structure} & 2.16 & 2.01 \\ 
+\textsf{Analyst} & 1.63 & 1.85 \\ 
+\textsf{Disclosure} & 1.45 & 1.81 \\ 
+\textsf{Debt Financing} & 1.59 & 1.73 \\ 
+\textsf{Household Credit/Economic Crash} & 1.39 & 1.72 \\ 
+\textsf{Retirement/Annuity Market} & 1.56 & 1.70 \\ 
+\textsf{Bond Market} & 1.66 & 1.70 \\ 
+\textsf{Payout Policy} & 1.94 & 1.62 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.35 & 1.62 \\ 
+\textsf{Banking Efficiency} & 1.61 & 1.57 \\ 
+\textsf{Retail Payment System} & 1.59 & 1.57 \\ 
+\textsf{Credit Risk} & 1.56 & 1.55 \\ 
+\textsf{Hedging} & 1.39 & 1.53 \\ 
+\textsf{Insurance System} & 1.64 & 1.47 \\ 
+\textsf{Risk Management} & 1.35 & 1.47 \\ 
+\textsf{Concentration/Competition} & 1.50 & 1.44 \\ 
+\textsf{Residential Market} & 1.35 & 1.42 \\ 
+\textsf{Firm Valuation} & 1.46 & 1.38 \\ 
+\textsf{Political Relationship/Corruption} & 1.06 & 1.32 \\ 
+\textsf{Firm Diversification} & 1.25 & 1.24 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: IRFA}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in IRFA, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Contagion/Spillover} & 2.98 & 4.78 \\ 
+\textsf{Trading/Liquidity} & 4.47 & 3.81 \\ 
+\textsf{Emerging Country} & 2.87 & 3.57 \\ 
+\textsf{Bank Liquidity} & 2.46 & 3.21 \\ 
+\textsf{Market Anomaly} & 4.96 & 3.20 \\ 
+\textsf{Factor Model} & 2.59 & 3.14 \\ 
+\textsf{Monetary Policy} & 3.48 & 3.10 \\ 
+\textsf{Return Predictability} & 3.70 & 3.01 \\ 
+\textsf{Corporate Social Responsability} & 1.70 & 2.99 \\ 
+\textsf{Board/Executive} & 2.17 & 2.98 \\ 
+\textsf{Portfolio Strategy} & 3.38 & 2.89 \\ 
+\textsf{Option Pricing} & 4.18 & 2.82 \\ 
+\textsf{Fund Performance} & 2.19 & 2.71 \\ 
+\textsf{Volatility} & 3.80 & 2.58 \\ 
+\textsf{Hedging} & 1.40 & 2.24 \\ 
+\textsf{Currency} & 2.86 & 2.24 \\ 
+\textsf{Decision-Making Process} & 1.96 & 2.24 \\ 
+\textsf{Firm Earnings} & 2.41 & 2.23 \\ 
+\textsf{Real Estate/Bubble} & 2.65 & 2.15 \\ 
+\textsf{Debt Governance} & 1.95 & 2.15 \\ 
+\textsf{Corporate Investment} & 1.76 & 2.05 \\ 
+\textsf{Disclosure} & 1.46 & 2.04 \\ 
+\textsf{Household Credit/Economic Crash} & 1.37 & 2.03 \\ 
+\textsf{Merger/Acquisition} & 1.92 & 1.92 \\ 
+\textsf{Interest Rate} & 2.93 & 1.87 \\ 
+\textsf{Ownership} & 1.89 & 1.85 \\ 
+\textsf{Debt Financing} & 1.61 & 1.84 \\ 
+\textsf{IPO} & 2.28 & 1.83 \\ 
+\textsf{Analyst} & 1.57 & 1.81 \\ 
+\textsf{Corporate Announcement} & 1.86 & 1.79 \\ 
+\textsf{Banking Efficiency} & 1.87 & 1.72 \\ 
+\textsf{Concentration/Competition} & 1.68 & 1.68 \\ 
+\textsf{Capital Structure} & 1.75 & 1.66 \\ 
+\textsf{Bond Market} & 1.59 & 1.64 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.18 & 1.64 \\ 
+\textsf{Credit Risk} & 1.77 & 1.62 \\ 
+\textsf{Retirement/Annuity Market} & 1.44 & 1.59 \\ 
+\textsf{Risk Management} & 1.39 & 1.59 \\ 
+\textsf{Residential Market} & 1.80 & 1.54 \\ 
+\textsf{Insurance System} & 1.87 & 1.53 \\ 
+\textsf{Retail Payment System} & 1.67 & 1.53 \\ 
+\textsf{Political Relationship/Corruption} & 0.97 & 1.51 \\ 
+\textsf{Payout Policy} & 1.50 & 1.39 \\ 
+\textsf{Firm Diversification} & 1.31 & 1.18 \\ 
+\textsf{Firm Valuation} & 1.38 & 1.13 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JB}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JB, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Bank Liquidity} & 4.32 & 4.48 \\ 
+\textsf{Trading/Liquidity} & 3.92 & 3.57 \\ 
+\textsf{Contagion/Spillover} & 2.29 & 3.38 \\ 
+\textsf{Monetary Policy} & 3.48 & 3.26 \\ 
+\textsf{Option Pricing} & 4.00 & 3.19 \\ 
+\textsf{Emerging Country} & 2.94 & 3.14 \\ 
+\textsf{Portfolio Strategy} & 3.18 & 3.08 \\ 
+\textsf{Board/Executive} & 2.37 & 3.03 \\ 
+\textsf{Return Predictability} & 3.06 & 2.98 \\ 
+\textsf{Corporate Social Responsability} & 1.95 & 2.96 \\ 
+\textsf{Factor Model} & 2.25 & 2.93 \\ 
+\textsf{Fund Performance} & 2.33 & 2.92 \\ 
+\textsf{Household Credit/Economic Crash} & 1.77 & 2.67 \\ 
+\textsf{Market Anomaly} & 3.48 & 2.57 \\ 
+\textsf{Debt Financing} & 2.27 & 2.41 \\ 
+\textsf{Debt Governance} & 2.17 & 2.19 \\ 
+\textsf{Firm Earnings} & 2.22 & 2.15 \\ 
+\textsf{Decision-Making Process} & 1.67 & 2.13 \\ 
+\textsf{Volatility} & 2.64 & 2.12 \\ 
+\textsf{Currency} & 2.58 & 2.11 \\ 
+\textsf{Interest Rate} & 2.79 & 2.04 \\ 
+\textsf{Credit Risk} & 2.07 & 2.02 \\ 
+\textsf{Corporate Investment} & 1.79 & 2.01 \\ 
+\textsf{Merger/Acquisition} & 2.08 & 1.90 \\ 
+\textsf{Ownership} & 2.05 & 1.86 \\ 
+\textsf{Disclosure} & 1.51 & 1.85 \\ 
+\textsf{Real Estate/Bubble} & 2.14 & 1.83 \\ 
+\textsf{Risk Management} & 1.60 & 1.83 \\ 
+\textsf{Bond Market} & 1.68 & 1.83 \\ 
+\textsf{Capital Structure} & 1.99 & 1.82 \\ 
+\textsf{IPO} & 2.32 & 1.82 \\ 
+\textsf{Retirement/Annuity Market} & 1.67 & 1.81 \\ 
+\textsf{Retail Payment System} & 2.05 & 1.79 \\ 
+\textsf{Banking Efficiency} & 2.48 & 1.71 \\ 
+\textsf{Hedging} & 1.31 & 1.69 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.50 & 1.69 \\ 
+\textsf{Corporate Announcement} & 1.89 & 1.63 \\ 
+\textsf{Residential Market} & 1.86 & 1.61 \\ 
+\textsf{Analyst} & 1.41 & 1.60 \\ 
+\textsf{Insurance System} & 2.09 & 1.60 \\ 
+\textsf{Concentration/Competition} & 1.59 & 1.57 \\ 
+\textsf{Political Relationship/Corruption} & 1.13 & 1.50 \\ 
+\textsf{Payout Policy} & 1.56 & 1.36 \\ 
+\textsf{Firm Diversification} & 1.31 & 1.21 \\ 
+\textsf{Firm Valuation} & 1.26 & 1.15 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JBF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JBF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Return Predictability} & 3.29 & 3.90 \\ 
+\textsf{Trading/Liquidity} & 4.31 & 3.64 \\ 
+\textsf{Factor Model} & 2.83 & 3.54 \\ 
+\textsf{Board/Executive} & 2.91 & 3.48 \\ 
+\textsf{Option Pricing} & 3.71 & 3.45 \\ 
+\textsf{Fund Performance} & 2.47 & 3.20 \\ 
+\textsf{Corporate Social Responsability} & 2.56 & 3.11 \\ 
+\textsf{Bank Liquidity} & 2.49 & 3.05 \\ 
+\textsf{Monetary Policy} & 3.33 & 2.93 \\ 
+\textsf{Portfolio Strategy} & 2.93 & 2.92 \\ 
+\textsf{Market Anomaly} & 3.43 & 2.65 \\ 
+\textsf{Debt Governance} & 2.19 & 2.57 \\ 
+\textsf{Contagion/Spillover} & 2.04 & 2.48 \\ 
+\textsf{Emerging Country} & 1.93 & 2.46 \\ 
+\textsf{Firm Earnings} & 2.71 & 2.42 \\ 
+\textsf{Decision-Making Process} & 1.89 & 2.31 \\ 
+\textsf{Capital Structure} & 2.13 & 2.30 \\ 
+\textsf{Merger/Acquisition} & 2.23 & 2.22 \\ 
+\textsf{IPO} & 2.17 & 2.18 \\ 
+\textsf{Real Estate/Bubble} & 2.82 & 2.17 \\ 
+\textsf{Volatility} & 2.80 & 2.03 \\ 
+\textsf{Debt Financing} & 2.02 & 1.99 \\ 
+\textsf{Corporate Investment} & 2.15 & 1.98 \\ 
+\textsf{Currency} & 1.90 & 1.97 \\ 
+\textsf{Household Credit/Economic Crash} & 1.75 & 1.97 \\ 
+\textsf{Interest Rate} & 2.53 & 1.94 \\ 
+\textsf{Residential Market} & 1.63 & 1.94 \\ 
+\textsf{Banking Efficiency} & 1.68 & 1.93 \\ 
+\textsf{Retail Payment System} & 2.73 & 1.88 \\ 
+\textsf{Ownership} & 2.06 & 1.80 \\ 
+\textsf{Disclosure} & 1.68 & 1.77 \\ 
+\textsf{Analyst} & 1.60 & 1.76 \\ 
+\textsf{Corporate Announcement} & 2.01 & 1.75 \\ 
+\textsf{Concentration/Competition} & 1.58 & 1.75 \\ 
+\textsf{Hedging} & 1.33 & 1.69 \\ 
+\textsf{Retirement/Annuity Market} & 1.73 & 1.68 \\ 
+\textsf{Risk Management} & 1.32 & 1.67 \\ 
+\textsf{Bond Market} & 1.63 & 1.67 \\ 
+\textsf{Credit Risk} & 2.10 & 1.58 \\ 
+\textsf{Firm Valuation} & 1.21 & 1.57 \\ 
+\textsf{Firm Diversification} & 1.30 & 1.45 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.63 & 1.44 \\ 
+\textsf{Political Relationship/Corruption} & 1.14 & 1.33 \\ 
+\textsf{Insurance System} & 2.36 & 1.28 \\ 
+\textsf{Payout Policy} & 1.74 & 1.18 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JCF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JCF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Corporate Social Responsability} & 3.00 & 6.17 \\ 
+\textsf{Board/Executive} & 5.13 & 5.09 \\ 
+\textsf{Debt Governance} & 4.45 & 3.53 \\ 
+\textsf{Emerging Country} & 2.53 & 3.11 \\ 
+\textsf{Corporate Investment} & 2.60 & 2.97 \\ 
+\textsf{Trading/Liquidity} & 3.32 & 2.95 \\ 
+\textsf{Bank Liquidity} & 2.18 & 2.83 \\ 
+\textsf{Ownership} & 4.90 & 2.80 \\ 
+\textsf{Option Pricing} & 3.29 & 2.62 \\ 
+\textsf{Merger/Acquisition} & 2.88 & 2.53 \\ 
+\textsf{Contagion/Spillover} & 1.78 & 2.53 \\ 
+\textsf{Fund Performance} & 2.46 & 2.53 \\ 
+\textsf{IPO} & 3.33 & 2.41 \\ 
+\textsf{Monetary Policy} & 2.36 & 2.36 \\ 
+\textsf{Debt Financing} & 1.85 & 2.31 \\ 
+\textsf{Corporate Announcement} & 2.88 & 2.31 \\ 
+\textsf{Factor Model} & 2.12 & 2.29 \\ 
+\textsf{Firm Earnings} & 2.41 & 2.26 \\ 
+\textsf{Disclosure} & 1.71 & 2.24 \\ 
+\textsf{Return Predictability} & 2.45 & 2.19 \\ 
+\textsf{Decision-Making Process} & 1.82 & 2.17 \\ 
+\textsf{Capital Structure} & 2.87 & 2.15 \\ 
+\textsf{Household Credit/Economic Crash} & 1.30 & 2.14 \\ 
+\textsf{Market Anomaly} & 2.71 & 2.06 \\ 
+\textsf{Portfolio Strategy} & 2.17 & 2.06 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.47 & 2.00 \\ 
+\textsf{Political Relationship/Corruption} & 1.12 & 1.79 \\ 
+\textsf{Analyst} & 1.47 & 1.73 \\ 
+\textsf{Payout Policy} & 1.98 & 1.72 \\ 
+\textsf{Retirement/Annuity Market} & 1.44 & 1.71 \\ 
+\textsf{Retail Payment System} & 1.65 & 1.65 \\ 
+\textsf{Currency} & 1.82 & 1.64 \\ 
+\textsf{Volatility} & 1.89 & 1.64 \\ 
+\textsf{Residential Market} & 1.85 & 1.63 \\ 
+\textsf{Banking Efficiency} & 1.89 & 1.61 \\ 
+\textsf{Real Estate/Bubble} & 1.83 & 1.60 \\ 
+\textsf{Bond Market} & 1.34 & 1.53 \\ 
+\textsf{Credit Risk} & 1.44 & 1.53 \\ 
+\textsf{Insurance System} & 1.79 & 1.49 \\ 
+\textsf{Interest Rate} & 1.77 & 1.49 \\ 
+\textsf{Risk Management} & 1.16 & 1.43 \\ 
+\textsf{Hedging} & 1.07 & 1.40 \\ 
+\textsf{Concentration/Competition} & 1.27 & 1.30 \\ 
+\textsf{Firm Diversification} & 1.58 & 1.26 \\ 
+\textsf{Firm Valuation} & 1.65 & 1.20 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JD}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JD, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Option Pricing} & 14.97 & 19.12 \\ 
+\textsf{Portfolio Strategy} &  3.85 &  3.68 \\ 
+\textsf{Trading/Liquidity} &  4.02 &  3.42 \\ 
+\textsf{Interest Rate} &  4.22 &  3.15 \\ 
+\textsf{Volatility} &  3.81 &  2.85 \\ 
+\textsf{Contagion/Spillover} &  1.92 &  2.54 \\ 
+\textsf{Return Predictability} &  2.61 &  2.40 \\ 
+\textsf{Credit Risk} &  2.20 &  2.37 \\ 
+\textsf{Market Anomaly} &  3.14 &  2.34 \\ 
+\textsf{Fund Performance} &  2.13 &  2.31 \\ 
+\textsf{Factor Model} &  2.05 &  2.30 \\ 
+\textsf{Board/Executive} &  2.05 &  2.30 \\ 
+\textsf{Monetary Policy} &  2.27 &  2.23 \\ 
+\textsf{Bank Liquidity} &  2.05 &  2.17 \\ 
+\textsf{Bond Market} &  1.98 &  2.07 \\ 
+\textsf{Hedging} &  1.80 &  1.94 \\ 
+\textsf{Emerging Country} &  1.79 &  1.87 \\ 
+\textsf{Currency} &  2.13 &  1.80 \\ 
+\textsf{Real Estate/Bubble} &  2.13 &  1.77 \\ 
+\textsf{Risk Management} &  1.69 &  1.76 \\ 
+\textsf{Decision-Making Process} &  1.60 &  1.75 \\ 
+\textsf{Household Credit/Economic Crash} &  1.30 &  1.68 \\ 
+\textsf{IPO} &  2.14 &  1.65 \\ 
+\textsf{Firm Earnings} &  1.78 &  1.65 \\ 
+\textsf{Analyst} &  1.77 &  1.63 \\ 
+\textsf{Debt Financing} &  1.49 &  1.62 \\ 
+\textsf{Corporate Social Responsability} &  1.38 &  1.59 \\ 
+\textsf{Retail Payment System} &  1.92 &  1.59 \\ 
+\textsf{Political Relationship/Corruption} &  1.02 &  1.58 \\ 
+\textsf{Merger/Acquisition} &  1.54 &  1.46 \\ 
+\textsf{Insurance System} &  1.96 &  1.45 \\ 
+\textsf{Residential Market} &  1.30 &  1.45 \\ 
+\textsf{Retirement/Annuity Market} &  1.36 &  1.43 \\ 
+\textsf{Corporate Investment} &  1.51 &  1.42 \\ 
+\textsf{Debt Governance} &  1.50 &  1.39 \\ 
+\textsf{Capital Structure} &  1.54 &  1.38 \\ 
+\textsf{Banking Efficiency} &  1.53 &  1.38 \\ 
+\textsf{Concentration/Competition} &  1.42 &  1.38 \\ 
+\textsf{Disclosure} &  1.34 &  1.33 \\ 
+\textsf{Ownership} &  1.48 &  1.31 \\ 
+\textsf{Payout Policy} &  1.51 &  1.22 \\ 
+\textsf{Corporate Announcement} &  1.29 &  1.11 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.12 &  1.11 \\ 
+\textsf{Firm Diversification} &  1.22 &  1.10 \\ 
+\textsf{Firm Valuation} &  1.13 &  0.95 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JEF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JEF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Return Predictability} & 5.35 & 4.19 \\ 
+\textsf{Factor Model} & 3.04 & 4.17 \\ 
+\textsf{Trading/Liquidity} & 4.89 & 4.14 \\ 
+\textsf{Contagion/Spillover} & 2.78 & 3.65 \\ 
+\textsf{Portfolio Strategy} & 4.09 & 3.65 \\ 
+\textsf{Option Pricing} & 4.07 & 3.29 \\ 
+\textsf{Market Anomaly} & 5.48 & 3.25 \\ 
+\textsf{Monetary Policy} & 3.38 & 3.13 \\ 
+\textsf{Fund Performance} & 2.39 & 3.10 \\ 
+\textsf{Board/Executive} & 2.10 & 2.91 \\ 
+\textsf{Emerging Country} & 2.39 & 2.81 \\ 
+\textsf{Corporate Social Responsability} & 1.70 & 2.79 \\ 
+\textsf{Volatility} & 5.19 & 2.75 \\ 
+\textsf{Bank Liquidity} & 2.07 & 2.68 \\ 
+\textsf{Firm Earnings} & 2.64 & 2.44 \\ 
+\textsf{Currency} & 3.16 & 2.29 \\ 
+\textsf{Interest Rate} & 2.93 & 2.26 \\ 
+\textsf{Decision-Making Process} & 1.63 & 2.19 \\ 
+\textsf{Household Credit/Economic Crash} & 1.35 & 2.17 \\ 
+\textsf{Bond Market} & 1.57 & 1.91 \\ 
+\textsf{Credit Risk} & 1.76 & 1.90 \\ 
+\textsf{Real Estate/Bubble} & 2.35 & 1.86 \\ 
+\textsf{Debt Governance} & 1.55 & 1.84 \\ 
+\textsf{Debt Financing} & 1.47 & 1.83 \\ 
+\textsf{Corporate Investment} & 1.49 & 1.83 \\ 
+\textsf{Analyst} & 1.51 & 1.82 \\ 
+\textsf{Merger/Acquisition} & 1.68 & 1.81 \\ 
+\textsf{IPO} & 1.96 & 1.80 \\ 
+\textsf{Hedging} & 1.41 & 1.76 \\ 
+\textsf{Risk Management} & 1.38 & 1.73 \\ 
+\textsf{Retirement/Annuity Market} & 1.33 & 1.70 \\ 
+\textsf{Capital Structure} & 1.62 & 1.66 \\ 
+\textsf{Ownership} & 1.50 & 1.66 \\ 
+\textsf{Banking Efficiency} & 1.74 & 1.56 \\ 
+\textsf{Disclosure} & 1.27 & 1.56 \\ 
+\textsf{Concentration/Competition} & 1.61 & 1.56 \\ 
+\textsf{Residential Market} & 1.76 & 1.55 \\ 
+\textsf{Corporate Announcement} & 1.49 & 1.51 \\ 
+\textsf{Retail Payment System} & 1.47 & 1.44 \\ 
+\textsf{Insurance System} & 1.57 & 1.41 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.08 & 1.40 \\ 
+\textsf{Payout Policy} & 1.43 & 1.34 \\ 
+\textsf{Political Relationship/Corruption} & 0.95 & 1.31 \\ 
+\textsf{Firm Diversification} & 1.22 & 1.23 \\ 
+\textsf{Firm Valuation} & 1.21 & 1.18 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Trading/Liquidity} & 5.09 & 3.91 \\ 
+\textsf{Monetary Policy} & 3.17 & 3.55 \\ 
+\textsf{Corporate Social Responsability} & 2.41 & 3.49 \\ 
+\textsf{Factor Model} & 3.19 & 3.36 \\ 
+\textsf{Board/Executive} & 2.67 & 3.36 \\ 
+\textsf{Fund Performance} & 2.54 & 3.31 \\ 
+\textsf{Return Predictability} & 3.72 & 3.20 \\ 
+\textsf{Bank Liquidity} & 2.36 & 3.03 \\ 
+\textsf{Household Credit/Economic Crash} & 1.56 & 3.00 \\ 
+\textsf{Option Pricing} & 3.93 & 2.97 \\ 
+\textsf{Contagion/Spillover} & 2.04 & 2.70 \\ 
+\textsf{Corporate Investment} & 2.15 & 2.66 \\ 
+\textsf{Portfolio Strategy} & 3.03 & 2.63 \\ 
+\textsf{Decision-Making Process} & 2.06 & 2.63 \\ 
+\textsf{Emerging Country} & 2.14 & 2.48 \\ 
+\textsf{Debt Financing} & 1.89 & 2.45 \\ 
+\textsf{Market Anomaly} & 3.81 & 2.39 \\ 
+\textsf{Debt Governance} & 2.28 & 2.30 \\ 
+\textsf{Firm Earnings} & 2.93 & 2.20 \\ 
+\textsf{Capital Structure} & 2.20 & 2.14 \\ 
+\textsf{Merger/Acquisition} & 2.18 & 2.00 \\ 
+\textsf{Interest Rate} & 2.68 & 1.99 \\ 
+\textsf{Real Estate/Bubble} & 2.41 & 1.98 \\ 
+\textsf{Volatility} & 2.65 & 1.92 \\ 
+\textsf{Credit Risk} & 1.68 & 1.91 \\ 
+\textsf{Retail Payment System} & 1.85 & 1.90 \\ 
+\textsf{Ownership} & 2.20 & 1.89 \\ 
+\textsf{Retirement/Annuity Market} & 1.57 & 1.88 \\ 
+\textsf{IPO} & 2.58 & 1.87 \\ 
+\textsf{Currency} & 2.04 & 1.83 \\ 
+\textsf{Bond Market} & 1.64 & 1.78 \\ 
+\textsf{Residential Market} & 1.60 & 1.75 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.41 & 1.73 \\ 
+\textsf{Risk Management} & 1.39 & 1.71 \\ 
+\textsf{Analyst} & 1.62 & 1.66 \\ 
+\textsf{Disclosure} & 1.51 & 1.65 \\ 
+\textsf{Corporate Announcement} & 2.05 & 1.60 \\ 
+\textsf{Payout Policy} & 1.81 & 1.51 \\ 
+\textsf{Hedging} & 1.26 & 1.50 \\ 
+\textsf{Political Relationship/Corruption} & 1.01 & 1.49 \\ 
+\textsf{Banking Efficiency} & 1.55 & 1.45 \\ 
+\textsf{Insurance System} & 1.80 & 1.43 \\ 
+\textsf{Concentration/Competition} & 1.36 & 1.31 \\ 
+\textsf{Firm Diversification} & 1.40 & 1.24 \\ 
+\textsf{Firm Valuation} & 1.58 & 1.24 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFE}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFE, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Corporate Social Responsability} & 2.24 & 4.73 \\ 
+\textsf{Factor Model} & 3.34 & 3.72 \\ 
+\textsf{Trading/Liquidity} & 5.12 & 3.72 \\ 
+\textsf{Board/Executive} & 2.52 & 3.67 \\ 
+\textsf{Fund Performance} & 2.75 & 3.36 \\ 
+\textsf{Residential Market} & 2.53 & 3.07 \\ 
+\textsf{Option Pricing} & 4.68 & 3.03 \\ 
+\textsf{Return Predictability} & 3.63 & 3.03 \\ 
+\textsf{Monetary Policy} & 2.92 & 2.75 \\ 
+\textsf{Bank Liquidity} & 2.09 & 2.72 \\ 
+\textsf{Portfolio Strategy} & 3.39 & 2.71 \\ 
+\textsf{Emerging Country} & 2.08 & 2.64 \\ 
+\textsf{Contagion/Spillover} & 1.99 & 2.54 \\ 
+\textsf{Corporate Investment} & 1.89 & 2.54 \\ 
+\textsf{Debt Governance} & 2.13 & 2.45 \\ 
+\textsf{Decision-Making Process} & 2.04 & 2.31 \\ 
+\textsf{Firm Earnings} & 3.08 & 2.31 \\ 
+\textsf{Market Anomaly} & 3.84 & 2.28 \\ 
+\textsf{Debt Financing} & 1.68 & 2.19 \\ 
+\textsf{Merger/Acquisition} & 2.15 & 2.16 \\ 
+\textsf{Household Credit/Economic Crash} & 1.34 & 2.15 \\ 
+\textsf{Ownership} & 2.07 & 2.11 \\ 
+\textsf{Capital Structure} & 2.13 & 2.06 \\ 
+\textsf{IPO} & 2.61 & 2.05 \\ 
+\textsf{Interest Rate} & 2.90 & 1.96 \\ 
+\textsf{Volatility} & 2.78 & 1.92 \\ 
+\textsf{Real Estate/Bubble} & 2.38 & 1.80 \\ 
+\textsf{Corporate Announcement} & 2.02 & 1.78 \\ 
+\textsf{Disclosure} & 1.47 & 1.78 \\ 
+\textsf{Analyst} & 1.67 & 1.75 \\ 
+\textsf{Currency} & 2.06 & 1.74 \\ 
+\textsf{Bond Market} & 1.64 & 1.69 \\ 
+\textsf{Retail Payment System} & 1.72 & 1.66 \\ 
+\textsf{Credit Risk} & 1.66 & 1.66 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.39 & 1.66 \\ 
+\textsf{Retirement/Annuity Market} & 1.45 & 1.65 \\ 
+\textsf{Risk Management} & 1.37 & 1.60 \\ 
+\textsf{Payout Policy} & 1.75 & 1.50 \\ 
+\textsf{Hedging} & 1.29 & 1.50 \\ 
+\textsf{Political Relationship/Corruption} & 0.98 & 1.47 \\ 
+\textsf{Insurance System} & 1.68 & 1.43 \\ 
+\textsf{Banking Efficiency} & 1.47 & 1.39 \\ 
+\textsf{Concentration/Competition} & 1.31 & 1.33 \\ 
+\textsf{Firm Diversification} & 1.37 & 1.23 \\ 
+\textsf{Firm Valuation} & 1.40 & 1.21 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFI}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFI, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Trading/Liquidity} & 4.49 & 3.85 \\ 
+\textsf{Corporate Social Responsability} & 2.77 & 3.64 \\ 
+\textsf{Factor Model} & 2.91 & 3.44 \\ 
+\textsf{Board/Executive} & 3.38 & 3.40 \\ 
+\textsf{Monetary Policy} & 2.83 & 3.27 \\ 
+\textsf{Return Predictability} & 3.21 & 3.23 \\ 
+\textsf{Bank Liquidity} & 2.49 & 3.11 \\ 
+\textsf{Fund Performance} & 2.65 & 3.08 \\ 
+\textsf{Option Pricing} & 3.67 & 3.01 \\ 
+\textsf{Contagion/Spillover} & 1.93 & 2.87 \\ 
+\textsf{Household Credit/Economic Crash} & 1.48 & 2.72 \\ 
+\textsf{Portfolio Strategy} & 2.61 & 2.61 \\ 
+\textsf{Emerging Country} & 2.32 & 2.57 \\ 
+\textsf{Corporate Investment} & 2.34 & 2.52 \\ 
+\textsf{Market Anomaly} & 3.44 & 2.51 \\ 
+\textsf{Decision-Making Process} & 1.93 & 2.41 \\ 
+\textsf{Debt Financing} & 1.91 & 2.38 \\ 
+\textsf{Firm Earnings} & 2.64 & 2.29 \\ 
+\textsf{Debt Governance} & 2.64 & 2.28 \\ 
+\textsf{Interest Rate} & 2.33 & 2.13 \\ 
+\textsf{Merger/Acquisition} & 2.57 & 2.08 \\ 
+\textsf{Capital Structure} & 2.46 & 2.04 \\ 
+\textsf{Ownership} & 2.80 & 1.99 \\ 
+\textsf{IPO} & 3.06 & 1.97 \\ 
+\textsf{Volatility} & 2.22 & 1.97 \\ 
+\textsf{Currency} & 2.03 & 1.90 \\ 
+\textsf{Real Estate/Bubble} & 2.18 & 1.89 \\ 
+\textsf{Bond Market} & 1.57 & 1.88 \\ 
+\textsf{Credit Risk} & 1.67 & 1.88 \\ 
+\textsf{Retail Payment System} & 1.82 & 1.81 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.47 & 1.81 \\ 
+\textsf{Retirement/Annuity Market} & 1.55 & 1.76 \\ 
+\textsf{Disclosure} & 1.56 & 1.73 \\ 
+\textsf{Residential Market} & 1.88 & 1.69 \\ 
+\textsf{Analyst} & 1.63 & 1.68 \\ 
+\textsf{Corporate Announcement} & 2.37 & 1.67 \\ 
+\textsf{Risk Management} & 1.30 & 1.59 \\ 
+\textsf{Payout Policy} & 1.84 & 1.54 \\ 
+\textsf{Hedging} & 1.14 & 1.53 \\ 
+\textsf{Political Relationship/Corruption} & 1.07 & 1.52 \\ 
+\textsf{Banking Efficiency} & 1.66 & 1.49 \\ 
+\textsf{Insurance System} & 1.75 & 1.43 \\ 
+\textsf{Concentration/Competition} & 1.36 & 1.39 \\ 
+\textsf{Firm Valuation} & 1.58 & 1.24 \\ 
+\textsf{Firm Diversification} & 1.47 & 1.20 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFM}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFM, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Bank Liquidity} & 3.81 & 7.72 \\ 
+\textsf{Debt Financing} & 3.00 & 4.21 \\ 
+\textsf{Trading/Liquidity} & 5.22 & 3.70 \\ 
+\textsf{Monetary Policy} & 3.28 & 3.40 \\ 
+\textsf{Household Credit/Economic Crash} & 1.68 & 3.31 \\ 
+\textsf{Board/Executive} & 2.64 & 3.00 \\ 
+\textsf{Corporate Social Responsability} & 2.15 & 2.97 \\ 
+\textsf{Emerging Country} & 2.51 & 2.89 \\ 
+\textsf{Fund Performance} & 2.30 & 2.75 \\ 
+\textsf{Contagion/Spillover} & 1.86 & 2.55 \\ 
+\textsf{Option Pricing} & 3.16 & 2.50 \\ 
+\textsf{Debt Governance} & 2.63 & 2.38 \\ 
+\textsf{Portfolio Strategy} & 2.48 & 2.29 \\ 
+\textsf{Credit Risk} & 1.92 & 2.19 \\ 
+\textsf{Corporate Investment} & 2.14 & 2.18 \\ 
+\textsf{Capital Structure} & 2.50 & 2.17 \\ 
+\textsf{Return Predictability} & 2.29 & 2.12 \\ 
+\textsf{Factor Model} & 2.00 & 2.09 \\ 
+\textsf{IPO} & 2.61 & 2.03 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.72 & 2.03 \\ 
+\textsf{Retail Payment System} & 2.29 & 2.01 \\ 
+\textsf{Ownership} & 2.36 & 2.00 \\ 
+\textsf{Decision-Making Process} & 1.90 & 1.96 \\ 
+\textsf{Firm Earnings} & 2.34 & 1.96 \\ 
+\textsf{Currency} & 2.06 & 1.95 \\ 
+\textsf{Market Anomaly} & 2.33 & 1.91 \\ 
+\textsf{Merger/Acquisition} & 2.01 & 1.87 \\ 
+\textsf{Disclosure} & 1.69 & 1.80 \\ 
+\textsf{Insurance System} & 5.80 & 1.79 \\ 
+\textsf{Interest Rate} & 2.08 & 1.78 \\ 
+\textsf{Real Estate/Bubble} & 2.16 & 1.76 \\ 
+\textsf{Volatility} & 2.08 & 1.69 \\ 
+\textsf{Banking Efficiency} & 1.88 & 1.67 \\ 
+\textsf{Residential Market} & 1.79 & 1.67 \\ 
+\textsf{Retirement/Annuity Market} & 1.50 & 1.65 \\ 
+\textsf{Risk Management} & 1.49 & 1.63 \\ 
+\textsf{Bond Market} & 1.39 & 1.58 \\ 
+\textsf{Corporate Announcement} & 1.64 & 1.50 \\ 
+\textsf{Concentration/Competition} & 1.42 & 1.50 \\ 
+\textsf{Analyst} & 1.42 & 1.45 \\ 
+\textsf{Political Relationship/Corruption} & 1.06 & 1.43 \\ 
+\textsf{Payout Policy} & 1.53 & 1.31 \\ 
+\textsf{Hedging} & 1.11 & 1.29 \\ 
+\textsf{Firm Valuation} & 1.39 & 1.20 \\ 
+\textsf{Firm Diversification} & 1.39 & 1.17 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFMKT}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFMKT, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Trading/Liquidity} & 17.60 & 7.61 \\ 
+\textsf{Factor Model} &  3.31 & 4.82 \\ 
+\textsf{Contagion/Spillover} &  2.11 & 3.32 \\ 
+\textsf{Return Predictability} &  2.91 & 3.29 \\ 
+\textsf{Market Anomaly} &  3.66 & 3.29 \\ 
+\textsf{Option Pricing} &  3.48 & 3.28 \\ 
+\textsf{Portfolio Strategy} &  2.82 & 3.06 \\ 
+\textsf{Firm Earnings} &  2.87 & 3.04 \\ 
+\textsf{Fund Performance} &  2.42 & 3.01 \\ 
+\textsf{Monetary Policy} &  2.56 & 2.73 \\ 
+\textsf{Volatility} &  2.74 & 2.54 \\ 
+\textsf{Corporate Social Responsability} &  1.69 & 2.53 \\ 
+\textsf{Decision-Making Process} &  2.08 & 2.43 \\ 
+\textsf{Bank Liquidity} &  1.83 & 2.38 \\ 
+\textsf{Real Estate/Bubble} &  3.24 & 2.36 \\ 
+\textsf{Board/Executive} &  1.97 & 2.32 \\ 
+\textsf{Emerging Country} &  1.89 & 2.29 \\ 
+\textsf{Analyst} &  1.80 & 2.16 \\ 
+\textsf{Interest Rate} &  2.01 & 2.15 \\ 
+\textsf{Bond Market} &  1.35 & 2.11 \\ 
+\textsf{IPO} &  2.15 & 1.95 \\ 
+\textsf{Currency} &  2.02 & 1.93 \\ 
+\textsf{Merger/Acquisition} &  1.67 & 1.84 \\ 
+\textsf{Household Credit/Economic Crash} &  1.13 & 1.80 \\ 
+\textsf{Corporate Investment} &  1.34 & 1.78 \\ 
+\textsf{Debt Financing} &  1.36 & 1.77 \\ 
+\textsf{Disclosure} &  1.54 & 1.75 \\ 
+\textsf{Capital Structure} &  1.52 & 1.67 \\ 
+\textsf{Debt Governance} &  1.42 & 1.67 \\ 
+\textsf{Ownership} &  1.62 & 1.60 \\ 
+\textsf{Credit Risk} &  1.40 & 1.59 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.34 & 1.57 \\ 
+\textsf{Hedging} &  1.13 & 1.56 \\ 
+\textsf{Retirement/Annuity Market} &  1.21 & 1.53 \\ 
+\textsf{Retail Payment System} &  1.61 & 1.51 \\ 
+\textsf{Concentration/Competition} &  1.48 & 1.51 \\ 
+\textsf{Corporate Announcement} &  1.39 & 1.50 \\ 
+\textsf{Residential Market} &  1.77 & 1.49 \\ 
+\textsf{Risk Management} &  1.16 & 1.47 \\ 
+\textsf{Insurance System} &  1.58 & 1.46 \\ 
+\textsf{Banking Efficiency} &  1.38 & 1.35 \\ 
+\textsf{Political Relationship/Corruption} &  0.94 & 1.33 \\ 
+\textsf{Payout Policy} &  1.21 & 1.26 \\ 
+\textsf{Firm Valuation} &  1.26 & 1.24 \\ 
+\textsf{Firm Diversification} &  1.04 & 1.13 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFQA}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFQA, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Trading/Liquidity} & 5.32 & 4.47 \\ 
+\textsf{Corporate Social Responsability} & 2.26 & 3.70 \\ 
+\textsf{Factor Model} & 3.12 & 3.68 \\ 
+\textsf{Board/Executive} & 2.54 & 3.62 \\ 
+\textsf{Fund Performance} & 2.65 & 3.34 \\ 
+\textsf{Market Anomaly} & 5.84 & 3.13 \\ 
+\textsf{Bank Liquidity} & 2.43 & 3.06 \\ 
+\textsf{Option Pricing} & 3.74 & 2.97 \\ 
+\textsf{Contagion/Spillover} & 2.22 & 2.90 \\ 
+\textsf{Firm Earnings} & 3.65 & 2.84 \\ 
+\textsf{Return Predictability} & 3.45 & 2.76 \\ 
+\textsf{Emerging Country} & 2.11 & 2.69 \\ 
+\textsf{Monetary Policy} & 2.82 & 2.69 \\ 
+\textsf{Portfolio Strategy} & 2.87 & 2.61 \\ 
+\textsf{Merger/Acquisition} & 2.16 & 2.57 \\ 
+\textsf{Debt Governance} & 2.22 & 2.38 \\ 
+\textsf{IPO} & 2.87 & 2.31 \\ 
+\textsf{Ownership} & 2.12 & 2.21 \\ 
+\textsf{Volatility} & 2.95 & 2.17 \\ 
+\textsf{Corporate Announcement} & 2.47 & 2.14 \\ 
+\textsf{Corporate Investment} & 1.91 & 2.14 \\ 
+\textsf{Debt Financing} & 1.65 & 2.11 \\ 
+\textsf{Decision-Making Process} & 1.61 & 2.09 \\ 
+\textsf{Household Credit/Economic Crash} & 1.28 & 1.99 \\ 
+\textsf{Analyst} & 1.64 & 1.95 \\ 
+\textsf{Disclosure} & 1.45 & 1.92 \\ 
+\textsf{Real Estate/Bubble} & 2.16 & 1.91 \\ 
+\textsf{Capital Structure} & 2.09 & 1.90 \\ 
+\textsf{Interest Rate} & 2.52 & 1.76 \\ 
+\textsf{Bond Market} & 1.78 & 1.73 \\ 
+\textsf{Currency} & 1.99 & 1.70 \\ 
+\textsf{Retirement/Annuity Market} & 1.39 & 1.64 \\ 
+\textsf{Credit Risk} & 1.57 & 1.58 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.33 & 1.57 \\ 
+\textsf{Retail Payment System} & 1.55 & 1.52 \\ 
+\textsf{Residential Market} & 1.34 & 1.52 \\ 
+\textsf{Payout Policy} & 1.97 & 1.50 \\ 
+\textsf{Insurance System} & 1.87 & 1.47 \\ 
+\textsf{Banking Efficiency} & 1.48 & 1.46 \\ 
+\textsf{Hedging} & 1.20 & 1.43 \\ 
+\textsf{Concentration/Competition} & 1.38 & 1.42 \\ 
+\textsf{Risk Management} & 1.33 & 1.41 \\ 
+\textsf{Political Relationship/Corruption} & 0.95 & 1.41 \\ 
+\textsf{Firm Valuation} & 1.52 & 1.34 \\ 
+\textsf{Firm Diversification} & 1.23 & 1.29 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFR}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFR, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Bank Liquidity} & 6.66 & 8.09 \\ 
+\textsf{Residential Market} & 2.54 & 7.83 \\ 
+\textsf{Debt Financing} & 2.83 & 3.64 \\ 
+\textsf{Emerging Country} & 3.10 & 3.24 \\ 
+\textsf{Household Credit/Economic Crash} & 2.09 & 3.01 \\ 
+\textsf{Board/Executive} & 2.33 & 2.78 \\ 
+\textsf{Trading/Liquidity} & 3.43 & 2.70 \\ 
+\textsf{Fund Performance} & 2.45 & 2.63 \\ 
+\textsf{Monetary Policy} & 2.68 & 2.52 \\ 
+\textsf{Contagion/Spillover} & 1.97 & 2.51 \\ 
+\textsf{Corporate Social Responsability} & 1.90 & 2.47 \\ 
+\textsf{Option Pricing} & 3.08 & 2.40 \\ 
+\textsf{Credit Risk} & 2.29 & 2.35 \\ 
+\textsf{Portfolio Strategy} & 2.70 & 2.24 \\ 
+\textsf{Return Predictability} & 2.53 & 2.17 \\ 
+\textsf{Factor Model} & 1.99 & 2.08 \\ 
+\textsf{Debt Governance} & 1.97 & 1.99 \\ 
+\textsf{Disclosure} & 1.69 & 1.96 \\ 
+\textsf{Corporate Conduct/Regulation} & 2.16 & 1.92 \\ 
+\textsf{Retail Payment System} & 2.76 & 1.90 \\ 
+\textsf{Market Anomaly} & 3.00 & 1.88 \\ 
+\textsf{Merger/Acquisition} & 2.11 & 1.78 \\ 
+\textsf{Retirement/Annuity Market} & 1.80 & 1.78 \\ 
+\textsf{Banking Efficiency} & 2.51 & 1.78 \\ 
+\textsf{Capital Structure} & 2.03 & 1.77 \\ 
+\textsf{Decision-Making Process} & 1.56 & 1.76 \\ 
+\textsf{Political Relationship/Corruption} & 1.31 & 1.75 \\ 
+\textsf{Firm Earnings} & 2.01 & 1.75 \\ 
+\textsf{Ownership} & 1.92 & 1.71 \\ 
+\textsf{Volatility} & 2.16 & 1.69 \\ 
+\textsf{Real Estate/Bubble} & 2.18 & 1.67 \\ 
+\textsf{Currency} & 2.00 & 1.66 \\ 
+\textsf{Interest Rate} & 2.29 & 1.65 \\ 
+\textsf{Risk Management} & 1.65 & 1.64 \\ 
+\textsf{IPO} & 2.18 & 1.61 \\ 
+\textsf{Corporate Investment} & 1.63 & 1.61 \\ 
+\textsf{Insurance System} & 2.97 & 1.56 \\ 
+\textsf{Corporate Announcement} & 1.90 & 1.56 \\ 
+\textsf{Bond Market} & 1.60 & 1.56 \\ 
+\textsf{Concentration/Competition} & 1.61 & 1.49 \\ 
+\textsf{Payout Policy} & 1.53 & 1.32 \\ 
+\textsf{Analyst} & 1.27 & 1.31 \\ 
+\textsf{Hedging} & 1.19 & 1.27 \\ 
+\textsf{Firm Diversification} & 1.26 & 1.08 \\ 
+\textsf{Firm Valuation} & 1.18 & 0.92 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JFSR}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JFSR, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Option Pricing} &  7.47 & 7.81 \\ 
+\textsf{Volatility} & 11.77 & 7.49 \\ 
+\textsf{Trading/Liquidity} &  5.43 & 5.38 \\ 
+\textsf{Contagion/Spillover} &  2.36 & 4.02 \\ 
+\textsf{Factor Model} &  2.15 & 3.26 \\ 
+\textsf{Return Predictability} &  3.05 & 3.23 \\ 
+\textsf{Interest Rate} &  4.07 & 3.11 \\ 
+\textsf{Hedging} &  2.10 & 3.04 \\ 
+\textsf{Market Anomaly} &  4.12 & 3.01 \\ 
+\textsf{Portfolio Strategy} &  3.25 & 2.94 \\ 
+\textsf{Monetary Policy} &  2.80 & 2.69 \\ 
+\textsf{Firm Earnings} &  2.20 & 2.41 \\ 
+\textsf{Fund Performance} &  2.14 & 2.35 \\ 
+\textsf{Board/Executive} &  1.99 & 2.28 \\ 
+\textsf{Bank Liquidity} &  1.90 & 2.21 \\ 
+\textsf{Corporate Social Responsability} &  1.51 & 2.05 \\ 
+\textsf{Real Estate/Bubble} &  2.35 & 1.97 \\ 
+\textsf{Currency} &  2.24 & 1.96 \\ 
+\textsf{Emerging Country} &  1.75 & 1.93 \\ 
+\textsf{Decision-Making Process} &  1.49 & 1.87 \\ 
+\textsf{Household Credit/Economic Crash} &  1.22 & 1.78 \\ 
+\textsf{Bond Market} &  1.48 & 1.77 \\ 
+\textsf{Credit Risk} &  1.60 & 1.64 \\ 
+\textsf{Retail Payment System} &  1.78 & 1.63 \\ 
+\textsf{Concentration/Competition} &  1.60 & 1.62 \\ 
+\textsf{Risk Management} &  1.40 & 1.59 \\ 
+\textsf{Merger/Acquisition} &  1.54 & 1.50 \\ 
+\textsf{Analyst} &  1.30 & 1.49 \\ 
+\textsf{Debt Financing} &  1.33 & 1.47 \\ 
+\textsf{IPO} &  1.78 & 1.47 \\ 
+\textsf{Debt Governance} &  1.41 & 1.42 \\ 
+\textsf{Political Relationship/Corruption} &  0.95 & 1.41 \\ 
+\textsf{Banking Efficiency} &  1.63 & 1.39 \\ 
+\textsf{Disclosure} &  1.16 & 1.39 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.08 & 1.37 \\ 
+\textsf{Corporate Investment} &  1.35 & 1.36 \\ 
+\textsf{Capital Structure} &  1.38 & 1.34 \\ 
+\textsf{Insurance System} &  1.54 & 1.29 \\ 
+\textsf{Retirement/Annuity Market} &  1.16 & 1.27 \\ 
+\textsf{Ownership} &  1.34 & 1.27 \\ 
+\textsf{Residential Market} &  1.32 & 1.27 \\ 
+\textsf{Corporate Announcement} &  1.26 & 1.18 \\ 
+\textsf{Payout Policy} &  1.19 & 1.16 \\ 
+\textsf{Firm Valuation} &  1.02 & 0.98 \\ 
+\textsf{Firm Diversification} &  1.06 & 0.93 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JIFMIM}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JIFMIM, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Emerging Country} & 3.31 & 5.02 \\ 
+\textsf{Contagion/Spillover} & 3.73 & 4.93 \\ 
+\textsf{Bank Liquidity} & 3.10 & 4.27 \\ 
+\textsf{Monetary Policy} & 4.33 & 3.65 \\ 
+\textsf{Trading/Liquidity} & 5.04 & 3.45 \\ 
+\textsf{Return Predictability} & 3.61 & 2.98 \\ 
+\textsf{Market Anomaly} & 5.07 & 2.97 \\ 
+\textsf{Currency} & 5.50 & 2.89 \\ 
+\textsf{Factor Model} & 2.54 & 2.82 \\ 
+\textsf{Portfolio Strategy} & 2.87 & 2.76 \\ 
+\textsf{Board/Executive} & 1.93 & 2.67 \\ 
+\textsf{Corporate Social Responsability} & 1.51 & 2.62 \\ 
+\textsf{Option Pricing} & 3.22 & 2.61 \\ 
+\textsf{Fund Performance} & 2.13 & 2.43 \\ 
+\textsf{Volatility} & 4.10 & 2.30 \\ 
+\textsf{Household Credit/Economic Crash} & 1.38 & 2.17 \\ 
+\textsf{Debt Governance} & 1.61 & 2.13 \\ 
+\textsf{Firm Earnings} & 2.30 & 2.13 \\ 
+\textsf{Debt Financing} & 1.62 & 2.04 \\ 
+\textsf{Real Estate/Bubble} & 2.76 & 2.02 \\ 
+\textsf{Decision-Making Process} & 1.61 & 2.02 \\ 
+\textsf{Interest Rate} & 2.80 & 1.94 \\ 
+\textsf{Bond Market} & 1.56 & 1.91 \\ 
+\textsf{Hedging} & 1.44 & 1.89 \\ 
+\textsf{Disclosure} & 1.34 & 1.89 \\ 
+\textsf{IPO} & 2.00 & 1.80 \\ 
+\textsf{Merger/Acquisition} & 1.68 & 1.78 \\ 
+\textsf{Credit Risk} & 1.61 & 1.78 \\ 
+\textsf{Corporate Investment} & 1.39 & 1.76 \\ 
+\textsf{Ownership} & 1.56 & 1.75 \\ 
+\textsf{Banking Efficiency} & 1.79 & 1.73 \\ 
+\textsf{Concentration/Competition} & 1.73 & 1.70 \\ 
+\textsf{Corporate Announcement} & 1.50 & 1.68 \\ 
+\textsf{Retirement/Annuity Market} & 1.25 & 1.64 \\ 
+\textsf{Analyst} & 1.49 & 1.62 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.16 & 1.61 \\ 
+\textsf{Retail Payment System} & 1.63 & 1.59 \\ 
+\textsf{Capital Structure} & 1.50 & 1.57 \\ 
+\textsf{Risk Management} & 1.24 & 1.53 \\ 
+\textsf{Political Relationship/Corruption} & 1.02 & 1.48 \\ 
+\textsf{Insurance System} & 1.61 & 1.46 \\ 
+\textsf{Residential Market} & 1.75 & 1.42 \\ 
+\textsf{Payout Policy} & 1.25 & 1.29 \\ 
+\textsf{Firm Valuation} & 1.35 & 1.21 \\ 
+\textsf{Firm Diversification} & 1.10 & 1.11 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JIMF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JIMF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Currency} & 12.16 & 7.68 \\ 
+\textsf{Monetary Policy} &  7.02 & 6.93 \\ 
+\textsf{Emerging Country} &  3.49 & 5.08 \\ 
+\textsf{Contagion/Spillover} &  2.88 & 4.64 \\ 
+\textsf{Bank Liquidity} &  2.53 & 3.87 \\ 
+\textsf{Household Credit/Economic Crash} &  1.54 & 3.12 \\ 
+\textsf{Return Predictability} &  3.96 & 3.07 \\ 
+\textsf{Trading/Liquidity} &  3.39 & 2.98 \\ 
+\textsf{Portfolio Strategy} &  2.75 & 2.47 \\ 
+\textsf{Option Pricing} &  3.20 & 2.42 \\ 
+\textsf{Market Anomaly} &  3.16 & 2.25 \\ 
+\textsf{Corporate Social Responsability} &  1.42 & 2.18 \\ 
+\textsf{Fund Performance} &  1.82 & 2.17 \\ 
+\textsf{Board/Executive} &  1.77 & 2.17 \\ 
+\textsf{Factor Model} &  1.87 & 2.15 \\ 
+\textsf{Volatility} &  3.37 & 2.08 \\ 
+\textsf{Interest Rate} &  2.90 & 1.95 \\ 
+\textsf{Debt Governance} &  1.68 & 1.93 \\ 
+\textsf{Debt Financing} &  1.53 & 1.92 \\ 
+\textsf{Bond Market} &  1.54 & 1.90 \\ 
+\textsf{Real Estate/Bubble} &  2.09 & 1.87 \\ 
+\textsf{Firm Earnings} &  1.92 & 1.81 \\ 
+\textsf{Corporate Investment} &  1.58 & 1.80 \\ 
+\textsf{Retail Payment System} &  1.90 & 1.78 \\ 
+\textsf{Credit Risk} &  1.76 & 1.74 \\ 
+\textsf{Merger/Acquisition} &  1.66 & 1.67 \\ 
+\textsf{Decision-Making Process} &  1.44 & 1.67 \\ 
+\textsf{Hedging} &  1.35 & 1.64 \\ 
+\textsf{Retirement/Annuity Market} &  1.31 & 1.56 \\ 
+\textsf{Banking Efficiency} &  1.63 & 1.54 \\ 
+\textsf{Political Relationship/Corruption} &  1.04 & 1.49 \\ 
+\textsf{Capital Structure} &  1.48 & 1.48 \\ 
+\textsf{IPO} &  1.66 & 1.46 \\ 
+\textsf{Residential Market} &  1.52 & 1.45 \\ 
+\textsf{Insurance System} &  1.77 & 1.43 \\ 
+\textsf{Ownership} &  1.38 & 1.42 \\ 
+\textsf{Disclosure} &  1.14 & 1.41 \\ 
+\textsf{Analyst} &  1.27 & 1.39 \\ 
+\textsf{Risk Management} &  1.15 & 1.34 \\ 
+\textsf{Concentration/Competition} &  1.25 & 1.34 \\ 
+\textsf{Corporate Announcement} &  1.34 & 1.30 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.05 & 1.29 \\ 
+\textsf{Payout Policy} &  1.31 & 1.20 \\ 
+\textsf{Firm Valuation} &  1.06 & 1.05 \\ 
+\textsf{Firm Diversification} &  0.97 & 0.94 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JMCB}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JMCB, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Monetary Policy} & 13.53 & 14.01 \\ 
+\textsf{Household Credit/Economic Crash} &  2.02 &  4.82 \\ 
+\textsf{Bank Liquidity} &  3.68 &  4.15 \\ 
+\textsf{Contagion/Spillover} &  2.11 &  2.87 \\ 
+\textsf{Return Predictability} &  3.41 &  2.86 \\ 
+\textsf{Emerging Country} &  2.75 &  2.86 \\ 
+\textsf{Trading/Liquidity} &  3.18 &  2.82 \\ 
+\textsf{Option Pricing} &  3.07 &  2.47 \\ 
+\textsf{Debt Financing} &  2.20 &  2.44 \\ 
+\textsf{Currency} &  3.02 &  2.40 \\ 
+\textsf{Retail Payment System} &  2.89 &  2.39 \\ 
+\textsf{Corporate Social Responsability} &  1.68 &  2.37 \\ 
+\textsf{Board/Executive} &  2.05 &  2.25 \\ 
+\textsf{Portfolio Strategy} &  2.44 &  2.17 \\ 
+\textsf{Credit Risk} &  1.86 &  2.05 \\ 
+\textsf{Fund Performance} &  1.97 &  2.01 \\ 
+\textsf{Volatility} &  2.42 &  1.97 \\ 
+\textsf{Interest Rate} &  2.44 &  1.96 \\ 
+\textsf{Factor Model} &  1.72 &  1.89 \\ 
+\textsf{Market Anomaly} &  2.52 &  1.88 \\ 
+\textsf{Firm Earnings} &  1.99 &  1.86 \\ 
+\textsf{Debt Governance} &  1.71 &  1.78 \\ 
+\textsf{Real Estate/Bubble} &  2.19 &  1.77 \\ 
+\textsf{Corporate Investment} &  1.67 &  1.75 \\ 
+\textsf{Merger/Acquisition} &  1.88 &  1.70 \\ 
+\textsf{Political Relationship/Corruption} &  1.15 &  1.70 \\ 
+\textsf{Residential Market} &  1.77 &  1.70 \\ 
+\textsf{Retirement/Annuity Market} &  1.52 &  1.66 \\ 
+\textsf{Bond Market} &  1.34 &  1.66 \\ 
+\textsf{Banking Efficiency} &  2.30 &  1.65 \\ 
+\textsf{Capital Structure} &  1.74 &  1.64 \\ 
+\textsf{Insurance System} &  1.90 &  1.57 \\ 
+\textsf{Decision-Making Process} &  1.44 &  1.57 \\ 
+\textsf{Analyst} &  1.44 &  1.44 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.36 &  1.44 \\ 
+\textsf{Ownership} &  1.66 &  1.43 \\ 
+\textsf{IPO} &  1.91 &  1.42 \\ 
+\textsf{Disclosure} &  1.29 &  1.42 \\ 
+\textsf{Payout Policy} &  1.52 &  1.36 \\ 
+\textsf{Concentration/Competition} &  1.50 &  1.31 \\ 
+\textsf{Hedging} &  1.11 &  1.27 \\ 
+\textsf{Risk Management} &  1.14 &  1.26 \\ 
+\textsf{Corporate Announcement} &  1.37 &  1.19 \\ 
+\textsf{Firm Diversification} &  1.09 &  0.91 \\ 
+\textsf{Firm Valuation} &  1.06 &  0.90 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JPM}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JPM, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Portfolio Strategy} & 8.67 & 9.46 \\ 
+\textsf{Fund Performance} & 4.48 & 4.54 \\ 
+\textsf{Factor Model} & 2.92 & 3.89 \\ 
+\textsf{Return Predictability} & 3.59 & 3.70 \\ 
+\textsf{Decision-Making Process} & 2.99 & 3.18 \\ 
+\textsf{Trading/Liquidity} & 3.32 & 3.01 \\ 
+\textsf{Option Pricing} & 3.57 & 2.91 \\ 
+\textsf{Contagion/Spillover} & 1.91 & 2.66 \\ 
+\textsf{Monetary Policy} & 2.64 & 2.64 \\ 
+\textsf{Market Anomaly} & 3.33 & 2.60 \\ 
+\textsf{Real Estate/Bubble} & 2.66 & 2.41 \\ 
+\textsf{Volatility} & 2.50 & 2.38 \\ 
+\textsf{Hedging} & 1.69 & 2.37 \\ 
+\textsf{Emerging Country} & 2.23 & 2.29 \\ 
+\textsf{Corporate Investment} & 2.20 & 2.24 \\ 
+\textsf{Board/Executive} & 1.96 & 2.15 \\ 
+\textsf{Political Relationship/Corruption} & 1.33 & 2.08 \\ 
+\textsf{Bank Liquidity} & 1.91 & 2.05 \\ 
+\textsf{Risk Management} & 2.09 & 2.03 \\ 
+\textsf{Interest Rate} & 2.54 & 1.99 \\ 
+\textsf{Analyst} & 1.69 & 1.89 \\ 
+\textsf{Household Credit/Economic Crash} & 1.48 & 1.87 \\ 
+\textsf{Firm Earnings} & 1.98 & 1.87 \\ 
+\textsf{Bond Market} & 1.94 & 1.83 \\ 
+\textsf{Currency} & 1.99 & 1.83 \\ 
+\textsf{Retirement/Annuity Market} & 1.79 & 1.76 \\ 
+\textsf{Residential Market} & 1.61 & 1.73 \\ 
+\textsf{Corporate Social Responsability} & 1.37 & 1.68 \\ 
+\textsf{Concentration/Competition} & 1.66 & 1.62 \\ 
+\textsf{Credit Risk} & 1.87 & 1.60 \\ 
+\textsf{IPO} & 1.99 & 1.57 \\ 
+\textsf{Retail Payment System} & 1.78 & 1.57 \\ 
+\textsf{Debt Governance} & 1.61 & 1.56 \\ 
+\textsf{Firm Diversification} & 1.55 & 1.54 \\ 
+\textsf{Disclosure} & 1.40 & 1.51 \\ 
+\textsf{Merger/Acquisition} & 1.63 & 1.50 \\ 
+\textsf{Debt Financing} & 1.53 & 1.50 \\ 
+\textsf{Capital Structure} & 1.58 & 1.47 \\ 
+\textsf{Corporate Announcement} & 1.69 & 1.45 \\ 
+\textsf{Insurance System} & 1.91 & 1.43 \\ 
+\textsf{Banking Efficiency} & 1.56 & 1.43 \\ 
+\textsf{Ownership} & 1.60 & 1.39 \\ 
+\textsf{Firm Valuation} & 1.57 & 1.31 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.26 & 1.30 \\ 
+\textsf{Payout Policy} & 1.45 & 1.22 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JREFE}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JREFE, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Residential Market} & 6.65 & 12.80 \\ 
+\textsf{Real Estate/Bubble} & 5.09 &  4.82 \\ 
+\textsf{Household Credit/Economic Crash} & 2.12 &  2.94 \\ 
+\textsf{Monetary Policy} & 3.26 &  2.91 \\ 
+\textsf{Contagion/Spillover} & 2.09 &  2.82 \\ 
+\textsf{Trading/Liquidity} & 3.11 &  2.81 \\ 
+\textsf{Return Predictability} & 3.34 &  2.80 \\ 
+\textsf{Option Pricing} & 3.63 &  2.67 \\ 
+\textsf{Portfolio Strategy} & 2.91 &  2.51 \\ 
+\textsf{Emerging Country} & 2.29 &  2.46 \\ 
+\textsf{Credit Risk} & 3.39 &  2.46 \\ 
+\textsf{Board/Executive} & 2.18 &  2.46 \\ 
+\textsf{Fund Performance} & 2.13 &  2.43 \\ 
+\textsf{Market Anomaly} & 3.34 &  2.42 \\ 
+\textsf{Factor Model} & 2.07 &  2.32 \\ 
+\textsf{Debt Financing} & 2.47 &  2.31 \\ 
+\textsf{Bank Liquidity} & 2.17 &  2.17 \\ 
+\textsf{Corporate Social Responsability} & 1.53 &  1.92 \\ 
+\textsf{Decision-Making Process} & 1.60 &  1.92 \\ 
+\textsf{Corporate Investment} & 1.82 &  1.91 \\ 
+\textsf{Volatility} & 2.41 &  1.88 \\ 
+\textsf{Retail Payment System} & 2.36 &  1.79 \\ 
+\textsf{Debt Governance} & 1.85 &  1.78 \\ 
+\textsf{Merger/Acquisition} & 1.84 &  1.76 \\ 
+\textsf{Firm Earnings} & 1.95 &  1.75 \\ 
+\textsf{IPO} & 2.15 &  1.66 \\ 
+\textsf{Interest Rate} & 2.35 &  1.63 \\ 
+\textsf{Disclosure} & 1.47 &  1.61 \\ 
+\textsf{Retirement/Annuity Market} & 1.60 &  1.59 \\ 
+\textsf{Analyst} & 1.42 &  1.58 \\ 
+\textsf{Ownership} & 1.69 &  1.54 \\ 
+\textsf{Capital Structure} & 1.72 &  1.53 \\ 
+\textsf{Currency} & 1.80 &  1.51 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.42 &  1.48 \\ 
+\textsf{Banking Efficiency} & 1.86 &  1.45 \\ 
+\textsf{Political Relationship/Corruption} & 1.08 &  1.44 \\ 
+\textsf{Insurance System} & 2.12 &  1.43 \\ 
+\textsf{Corporate Announcement} & 1.67 &  1.40 \\ 
+\textsf{Hedging} & 1.23 &  1.40 \\ 
+\textsf{Concentration/Competition} & 1.53 &  1.39 \\ 
+\textsf{Firm Diversification} & 1.60 &  1.36 \\ 
+\textsf{Risk Management} & 1.31 &  1.36 \\ 
+\textsf{Payout Policy} & 1.65 &  1.33 \\ 
+\textsf{Bond Market} & 1.44 &  1.32 \\ 
+\textsf{Firm Valuation} & 1.27 &  1.14 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: JRI}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in JRI, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Insurance System} & 15.12 & 11.59 \\ 
+\textsf{Risk Management} &  2.57 &  5.66 \\ 
+\textsf{Retirement/Annuity Market} &  3.47 &  4.09 \\ 
+\textsf{Option Pricing} &  3.72 &  3.24 \\ 
+\textsf{Board/Executive} &  2.81 &  2.89 \\ 
+\textsf{Portfolio Strategy} &  2.58 &  2.72 \\ 
+\textsf{Monetary Policy} &  2.60 &  2.57 \\ 
+\textsf{Household Credit/Economic Crash} &  1.71 &  2.50 \\ 
+\textsf{Bank Liquidity} &  2.13 &  2.46 \\ 
+\textsf{Return Predictability} &  2.72 &  2.45 \\ 
+\textsf{Trading/Liquidity} &  2.58 &  2.45 \\ 
+\textsf{Contagion/Spillover} &  1.78 &  2.43 \\ 
+\textsf{Retail Payment System} &  2.64 &  2.36 \\ 
+\textsf{Emerging Country} &  2.09 &  2.24 \\ 
+\textsf{Fund Performance} &  1.94 &  2.22 \\ 
+\textsf{Corporate Social Responsability} &  1.89 &  2.19 \\ 
+\textsf{Factor Model} &  1.75 &  2.04 \\ 
+\textsf{Credit Risk} &  1.95 &  2.03 \\ 
+\textsf{Market Anomaly} &  2.20 &  1.91 \\ 
+\textsf{Debt Financing} &  1.71 &  1.86 \\ 
+\textsf{Real Estate/Bubble} &  2.00 &  1.77 \\ 
+\textsf{Interest Rate} &  2.06 &  1.77 \\ 
+\textsf{Debt Governance} &  2.01 &  1.73 \\ 
+\textsf{Firm Earnings} &  1.85 &  1.73 \\ 
+\textsf{Volatility} &  1.89 &  1.70 \\ 
+\textsf{Corporate Investment} &  1.65 &  1.65 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.52 &  1.65 \\ 
+\textsf{Disclosure} &  1.46 &  1.64 \\ 
+\textsf{Residential Market} &  1.59 &  1.61 \\ 
+\textsf{Political Relationship/Corruption} &  1.26 &  1.59 \\ 
+\textsf{Hedging} &  1.18 &  1.57 \\ 
+\textsf{Banking Efficiency} &  1.88 &  1.56 \\ 
+\textsf{Ownership} &  1.88 &  1.55 \\ 
+\textsf{Decision-Making Process} &  1.19 &  1.55 \\ 
+\textsf{Corporate Announcement} &  1.93 &  1.54 \\ 
+\textsf{IPO} &  1.85 &  1.54 \\ 
+\textsf{Currency} &  1.75 &  1.54 \\ 
+\textsf{Capital Structure} &  1.75 &  1.53 \\ 
+\textsf{Bond Market} &  1.37 &  1.49 \\ 
+\textsf{Merger/Acquisition} &  1.61 &  1.48 \\ 
+\textsf{Payout Policy} &  1.66 &  1.37 \\ 
+\textsf{Concentration/Competition} &  1.25 &  1.26 \\ 
+\textsf{Analyst} &  1.19 &  1.25 \\ 
+\textsf{Firm Diversification} &  1.21 &  1.12 \\ 
+\textsf{Firm Valuation} &  1.05 &  0.94 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: MANF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in MANF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Board/Executive} & 3.06 & 3.83 \\ 
+\textsf{Corporate Social Responsability} & 2.26 & 3.53 \\ 
+\textsf{Trading/Liquidity} & 3.28 & 3.24 \\ 
+\textsf{Bank Liquidity} & 2.98 & 3.20 \\ 
+\textsf{Emerging Country} & 3.20 & 3.19 \\ 
+\textsf{Fund Performance} & 2.77 & 3.16 \\ 
+\textsf{Contagion/Spillover} & 2.40 & 3.08 \\ 
+\textsf{Portfolio Strategy} & 3.13 & 3.01 \\ 
+\textsf{Option Pricing} & 3.35 & 2.93 \\ 
+\textsf{Return Predictability} & 3.04 & 2.88 \\ 
+\textsf{Factor Model} & 2.19 & 2.87 \\ 
+\textsf{Market Anomaly} & 3.40 & 2.82 \\ 
+\textsf{Decision-Making Process} & 2.18 & 2.67 \\ 
+\textsf{Monetary Policy} & 2.95 & 2.66 \\ 
+\textsf{Debt Governance} & 2.31 & 2.44 \\ 
+\textsf{Firm Earnings} & 2.41 & 2.32 \\ 
+\textsf{Ownership} & 2.34 & 2.24 \\ 
+\textsf{Corporate Investment} & 2.22 & 2.21 \\ 
+\textsf{Corporate Announcement} & 2.77 & 2.20 \\ 
+\textsf{Disclosure} & 2.20 & 2.19 \\ 
+\textsf{IPO} & 2.33 & 2.05 \\ 
+\textsf{Volatility} & 2.42 & 2.02 \\ 
+\textsf{Merger/Acquisition} & 2.07 & 2.01 \\ 
+\textsf{Household Credit/Economic Crash} & 1.58 & 2.01 \\ 
+\textsf{Banking Efficiency} & 2.30 & 1.98 \\ 
+\textsf{Capital Structure} & 2.05 & 1.97 \\ 
+\textsf{Currency} & 2.54 & 1.92 \\ 
+\textsf{Debt Financing} & 1.82 & 1.86 \\ 
+\textsf{Real Estate/Bubble} & 2.15 & 1.86 \\ 
+\textsf{Analyst} & 1.44 & 1.73 \\ 
+\textsf{Interest Rate} & 2.20 & 1.73 \\ 
+\textsf{Retirement/Annuity Market} & 1.73 & 1.69 \\ 
+\textsf{Residential Market} & 1.71 & 1.67 \\ 
+\textsf{Payout Policy} & 1.81 & 1.65 \\ 
+\textsf{Insurance System} & 2.32 & 1.65 \\ 
+\textsf{Political Relationship/Corruption} & 1.31 & 1.64 \\ 
+\textsf{Credit Risk} & 1.70 & 1.64 \\ 
+\textsf{Concentration/Competition} & 1.57 & 1.64 \\ 
+\textsf{Retail Payment System} & 1.98 & 1.61 \\ 
+\textsf{Hedging} & 1.39 & 1.59 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.50 & 1.58 \\ 
+\textsf{Risk Management} & 1.55 & 1.55 \\ 
+\textsf{Bond Market} & 1.41 & 1.50 \\ 
+\textsf{Firm Diversification} & 1.33 & 1.46 \\ 
+\textsf{Firm Valuation} & 1.34 & 1.32 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: PBFJ}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in PBFJ, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Corporate Social Responsability} & 2.11 & 4.02 \\ 
+\textsf{Trading/Liquidity} & 5.35 & 3.93 \\ 
+\textsf{Emerging Country} & 3.03 & 3.80 \\ 
+\textsf{Contagion/Spillover} & 2.97 & 3.62 \\ 
+\textsf{Board/Executive} & 2.51 & 3.59 \\ 
+\textsf{Factor Model} & 3.14 & 3.55 \\ 
+\textsf{Bank Liquidity} & 2.54 & 3.30 \\ 
+\textsf{Market Anomaly} & 5.42 & 2.93 \\ 
+\textsf{Fund Performance} & 2.34 & 2.79 \\ 
+\textsf{Return Predictability} & 3.21 & 2.76 \\ 
+\textsf{Debt Governance} & 2.40 & 2.66 \\ 
+\textsf{Monetary Policy} & 2.84 & 2.64 \\ 
+\textsf{Option Pricing} & 3.21 & 2.61 \\ 
+\textsf{Portfolio Strategy} & 2.55 & 2.54 \\ 
+\textsf{Decision-Making Process} & 2.02 & 2.41 \\ 
+\textsf{Firm Earnings} & 2.98 & 2.28 \\ 
+\textsf{Ownership} & 2.25 & 2.21 \\ 
+\textsf{Corporate Investment} & 1.75 & 2.18 \\ 
+\textsf{Volatility} & 3.28 & 2.17 \\ 
+\textsf{Disclosure} & 1.55 & 2.12 \\ 
+\textsf{IPO} & 2.96 & 2.08 \\ 
+\textsf{Real Estate/Bubble} & 2.81 & 2.07 \\ 
+\textsf{Debt Financing} & 1.60 & 2.03 \\ 
+\textsf{Household Credit/Economic Crash} & 1.29 & 1.98 \\ 
+\textsf{Currency} & 2.44 & 1.88 \\ 
+\textsf{Merger/Acquisition} & 1.83 & 1.86 \\ 
+\textsf{Analyst} & 1.68 & 1.84 \\ 
+\textsf{Corporate Announcement} & 2.20 & 1.84 \\ 
+\textsf{Political Relationship/Corruption} & 1.10 & 1.80 \\ 
+\textsf{Interest Rate} & 2.23 & 1.74 \\ 
+\textsf{Banking Efficiency} & 1.69 & 1.68 \\ 
+\textsf{Capital Structure} & 1.74 & 1.67 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.36 & 1.66 \\ 
+\textsf{Hedging} & 1.24 & 1.61 \\ 
+\textsf{Residential Market} & 1.72 & 1.61 \\ 
+\textsf{Retail Payment System} & 1.56 & 1.57 \\ 
+\textsf{Credit Risk} & 1.48 & 1.55 \\ 
+\textsf{Concentration/Competition} & 1.49 & 1.54 \\ 
+\textsf{Retirement/Annuity Market} & 1.30 & 1.52 \\ 
+\textsf{Bond Market} & 1.35 & 1.49 \\ 
+\textsf{Payout Policy} & 1.67 & 1.48 \\ 
+\textsf{Insurance System} & 1.63 & 1.47 \\ 
+\textsf{Risk Management} & 1.21 & 1.47 \\ 
+\textsf{Firm Valuation} & 1.79 & 1.31 \\ 
+\textsf{Firm Diversification} & 1.19 & 1.18 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: QF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in QF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Option Pricing} & 10.56 & 7.80 \\ 
+\textsf{Portfolio Strategy} &  5.07 & 5.56 \\ 
+\textsf{Trading/Liquidity} &  4.49 & 4.33 \\ 
+\textsf{Contagion/Spillover} &  2.81 & 3.43 \\ 
+\textsf{Return Predictability} &  3.17 & 3.28 \\ 
+\textsf{Volatility} &  3.28 & 3.12 \\ 
+\textsf{Monetary Policy} &  3.24 & 2.98 \\ 
+\textsf{Factor Model} &  2.53 & 2.92 \\ 
+\textsf{Market Anomaly} &  3.54 & 2.87 \\ 
+\textsf{Interest Rate} &  3.19 & 2.79 \\ 
+\textsf{Bank Liquidity} &  2.28 & 2.67 \\ 
+\textsf{Fund Performance} &  2.21 & 2.56 \\ 
+\textsf{Board/Executive} &  2.06 & 2.33 \\ 
+\textsf{Credit Risk} &  2.15 & 2.18 \\ 
+\textsf{Real Estate/Bubble} &  2.50 & 2.09 \\ 
+\textsf{Hedging} &  1.63 & 2.07 \\ 
+\textsf{Risk Management} &  1.71 & 2.02 \\ 
+\textsf{Emerging Country} &  1.96 & 2.02 \\ 
+\textsf{Decision-Making Process} &  1.83 & 1.99 \\ 
+\textsf{Firm Earnings} &  1.96 & 1.96 \\ 
+\textsf{Currency} &  2.39 & 1.95 \\ 
+\textsf{Household Credit/Economic Crash} &  1.42 & 1.89 \\ 
+\textsf{Bond Market} &  1.64 & 1.85 \\ 
+\textsf{Insurance System} &  1.89 & 1.83 \\ 
+\textsf{Corporate Social Responsability} &  1.42 & 1.79 \\ 
+\textsf{Retirement/Annuity Market} &  1.50 & 1.69 \\ 
+\textsf{Merger/Acquisition} &  1.69 & 1.67 \\ 
+\textsf{Retail Payment System} &  1.61 & 1.63 \\ 
+\textsf{Corporate Investment} &  1.49 & 1.63 \\ 
+\textsf{Debt Financing} &  1.44 & 1.62 \\ 
+\textsf{Capital Structure} &  1.64 & 1.62 \\ 
+\textsf{Concentration/Competition} &  1.60 & 1.60 \\ 
+\textsf{Banking Efficiency} &  1.65 & 1.58 \\ 
+\textsf{Debt Governance} &  1.60 & 1.58 \\ 
+\textsf{Residential Market} &  1.61 & 1.57 \\ 
+\textsf{IPO} &  1.81 & 1.56 \\ 
+\textsf{Ownership} &  1.62 & 1.55 \\ 
+\textsf{Corporate Conduct/Regulation} &  1.19 & 1.47 \\ 
+\textsf{Analyst} &  1.29 & 1.42 \\ 
+\textsf{Disclosure} &  1.25 & 1.40 \\ 
+\textsf{Corporate Announcement} &  1.40 & 1.32 \\ 
+\textsf{Payout Policy} &  1.31 & 1.30 \\ 
+\textsf{Firm Diversification} &  1.30 & 1.24 \\ 
+\textsf{Political Relationship/Corruption} &  0.95 & 1.21 \\ 
+\textsf{Firm Valuation} &  1.12 & 1.05 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: RF}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in RF, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Political Relationship/Corruption} & 1.51 & 6.07 \\ 
+\textsf{Bank Liquidity} & 2.56 & 3.78 \\ 
+\textsf{Trading/Liquidity} & 4.06 & 3.51 \\ 
+\textsf{Monetary Policy} & 3.37 & 3.24 \\ 
+\textsf{Corporate Social Responsability} & 2.11 & 3.19 \\ 
+\textsf{Factor Model} & 2.83 & 2.99 \\ 
+\textsf{Contagion/Spillover} & 2.08 & 2.93 \\ 
+\textsf{Board/Executive} & 2.56 & 2.86 \\ 
+\textsf{Fund Performance} & 2.64 & 2.85 \\ 
+\textsf{Return Predictability} & 3.49 & 2.83 \\ 
+\textsf{Household Credit/Economic Crash} & 1.58 & 2.82 \\ 
+\textsf{Emerging Country} & 2.23 & 2.78 \\ 
+\textsf{Option Pricing} & 4.88 & 2.73 \\ 
+\textsf{Portfolio Strategy} & 3.54 & 2.54 \\ 
+\textsf{Debt Financing} & 1.92 & 2.37 \\ 
+\textsf{Decision-Making Process} & 2.87 & 2.36 \\ 
+\textsf{Market Anomaly} & 3.12 & 2.23 \\ 
+\textsf{Corporate Investment} & 2.16 & 2.20 \\ 
+\textsf{Firm Earnings} & 2.23 & 2.12 \\ 
+\textsf{Debt Governance} & 2.22 & 2.11 \\ 
+\textsf{Capital Structure} & 2.02 & 2.00 \\ 
+\textsf{Currency} & 2.24 & 1.95 \\ 
+\textsf{Retirement/Annuity Market} & 1.75 & 1.94 \\ 
+\textsf{Interest Rate} & 2.62 & 1.91 \\ 
+\textsf{Merger/Acquisition} & 2.01 & 1.89 \\ 
+\textsf{Ownership} & 2.27 & 1.87 \\ 
+\textsf{Credit Risk} & 1.86 & 1.86 \\ 
+\textsf{Volatility} & 2.59 & 1.86 \\ 
+\textsf{Real Estate/Bubble} & 2.41 & 1.84 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.41 & 1.84 \\ 
+\textsf{IPO} & 2.30 & 1.78 \\ 
+\textsf{Bond Market} & 1.67 & 1.76 \\ 
+\textsf{Retail Payment System} & 1.82 & 1.73 \\ 
+\textsf{Risk Management} & 1.73 & 1.60 \\ 
+\textsf{Disclosure} & 1.40 & 1.60 \\ 
+\textsf{Analyst} & 1.58 & 1.57 \\ 
+\textsf{Corporate Announcement} & 1.82 & 1.57 \\ 
+\textsf{Residential Market} & 1.75 & 1.56 \\ 
+\textsf{Insurance System} & 2.27 & 1.53 \\ 
+\textsf{Hedging} & 1.36 & 1.41 \\ 
+\textsf{Concentration/Competition} & 1.46 & 1.40 \\ 
+\textsf{Banking Efficiency} & 1.52 & 1.37 \\ 
+\textsf{Payout Policy} & 1.38 & 1.33 \\ 
+\textsf{Firm Valuation} & 1.42 & 1.19 \\ 
+\textsf{Firm Diversification} & 1.39 & 1.13 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: RFS}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in RFS, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Political Relationship/Corruption} & 1.28 & 7.33 \\ 
+\textsf{Trading/Liquidity} & 5.19 & 3.45 \\ 
+\textsf{Corporate Social Responsability} & 2.10 & 3.22 \\ 
+\textsf{Board/Executive} & 2.48 & 3.21 \\ 
+\textsf{Monetary Policy} & 3.58 & 3.18 \\ 
+\textsf{Bank Liquidity} & 2.33 & 3.15 \\ 
+\textsf{Return Predictability} & 3.88 & 2.96 \\ 
+\textsf{Fund Performance} & 2.49 & 2.92 \\ 
+\textsf{Factor Model} & 2.98 & 2.88 \\ 
+\textsf{Option Pricing} & 4.78 & 2.83 \\ 
+\textsf{Household Credit/Economic Crash} & 1.49 & 2.80 \\ 
+\textsf{Portfolio Strategy} & 3.65 & 2.57 \\ 
+\textsf{Debt Financing} & 1.98 & 2.48 \\ 
+\textsf{Contagion/Spillover} & 1.96 & 2.48 \\ 
+\textsf{Corporate Investment} & 2.07 & 2.48 \\ 
+\textsf{Emerging Country} & 2.00 & 2.38 \\ 
+\textsf{Decision-Making Process} & 2.15 & 2.37 \\ 
+\textsf{Debt Governance} & 2.13 & 2.28 \\ 
+\textsf{Market Anomaly} & 3.43 & 2.14 \\ 
+\textsf{Firm Earnings} & 2.72 & 2.12 \\ 
+\textsf{Ownership} & 2.08 & 1.95 \\ 
+\textsf{Merger/Acquisition} & 2.04 & 1.92 \\ 
+\textsf{Credit Risk} & 1.79 & 1.89 \\ 
+\textsf{Capital Structure} & 2.11 & 1.87 \\ 
+\textsf{Interest Rate} & 2.90 & 1.86 \\ 
+\textsf{Retail Payment System} & 1.86 & 1.82 \\ 
+\textsf{IPO} & 2.44 & 1.79 \\ 
+\textsf{Real Estate/Bubble} & 2.67 & 1.76 \\ 
+\textsf{Retirement/Annuity Market} & 1.53 & 1.75 \\ 
+\textsf{Volatility} & 2.62 & 1.73 \\ 
+\textsf{Residential Market} & 1.59 & 1.70 \\ 
+\textsf{Bond Market} & 1.63 & 1.68 \\ 
+\textsf{Currency} & 2.03 & 1.67 \\ 
+\textsf{Disclosure} & 1.42 & 1.62 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.29 & 1.62 \\ 
+\textsf{Risk Management} & 1.52 & 1.61 \\ 
+\textsf{Analyst} & 1.54 & 1.59 \\ 
+\textsf{Corporate Announcement} & 1.66 & 1.53 \\ 
+\textsf{Hedging} & 1.29 & 1.52 \\ 
+\textsf{Insurance System} & 1.93 & 1.47 \\ 
+\textsf{Payout Policy} & 1.62 & 1.42 \\ 
+\textsf{Banking Efficiency} & 1.55 & 1.41 \\ 
+\textsf{Concentration/Competition} & 1.42 & 1.29 \\ 
+\textsf{Firm Valuation} & 1.42 & 1.15 \\ 
+\textsf{Firm Diversification} & 1.35 & 1.14 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage
+\begin{table}[H]
+\caption{\textbf{Time-Trends in Topic Prevalence: RQFA}\\
+This table reports the first issue (YFI) and the 2023 prediction of the prevalence for the 45 topics covered in RQFA, according to the values obtained from the estimated model of Equation \ref{eq:trendtopic2}.}
+\label{tab:topic}
+\centering
+\scalebox{0.95}{
+\begin{tabular}{lcccc}
+\toprule
+Topic & YFI & 2023 &  \\
+\midrule\textsf{Residential Market} & 3.13 & 7.58 \\ 
+\textsf{Corporate Social Responsability} & 2.19 & 3.74 \\ 
+\textsf{Board/Executive} & 2.50 & 3.73 \\ 
+\textsf{Trading/Liquidity} & 4.11 & 3.31 \\ 
+\textsf{Disclosure} & 2.11 & 2.98 \\ 
+\textsf{Option Pricing} & 4.43 & 2.91 \\ 
+\textsf{Factor Model} & 2.68 & 2.81 \\ 
+\textsf{Bank Liquidity} & 2.27 & 2.80 \\ 
+\textsf{Return Predictability} & 3.78 & 2.73 \\ 
+\textsf{Firm Earnings} & 3.25 & 2.70 \\ 
+\textsf{Contagion/Spillover} & 2.11 & 2.69 \\ 
+\textsf{Fund Performance} & 2.40 & 2.64 \\ 
+\textsf{Market Anomaly} & 4.12 & 2.56 \\ 
+\textsf{Portfolio Strategy} & 3.66 & 2.54 \\ 
+\textsf{Monetary Policy} & 2.99 & 2.54 \\ 
+\textsf{Emerging Country} & 2.13 & 2.44 \\ 
+\textsf{Debt Governance} & 2.17 & 2.35 \\ 
+\textsf{Corporate Investment} & 1.96 & 2.12 \\ 
+\textsf{IPO} & 2.49 & 2.01 \\ 
+\textsf{Merger/Acquisition} & 1.93 & 1.99 \\ 
+\textsf{Corporate Announcement} & 2.04 & 1.99 \\ 
+\textsf{Volatility} & 3.07 & 1.99 \\ 
+\textsf{Ownership} & 1.87 & 1.98 \\ 
+\textsf{Decision-Making Process} & 1.71 & 1.98 \\ 
+\textsf{Debt Financing} & 1.60 & 1.89 \\ 
+\textsf{Analyst} & 1.71 & 1.88 \\ 
+\textsf{Household Credit/Economic Crash} & 1.30 & 1.88 \\ 
+\textsf{Real Estate/Bubble} & 2.21 & 1.78 \\ 
+\textsf{Capital Structure} & 2.06 & 1.76 \\ 
+\textsf{Interest Rate} & 2.65 & 1.69 \\ 
+\textsf{Corporate Conduct/Regulation} & 1.24 & 1.66 \\ 
+\textsf{Currency} & 2.06 & 1.63 \\ 
+\textsf{Banking Efficiency} & 1.85 & 1.62 \\ 
+\textsf{Credit Risk} & 1.80 & 1.62 \\ 
+\textsf{Retirement/Annuity Market} & 1.49 & 1.59 \\ 
+\textsf{Retail Payment System} & 1.70 & 1.56 \\ 
+\textsf{Payout Policy} & 1.73 & 1.51 \\ 
+\textsf{Insurance System} & 2.19 & 1.46 \\ 
+\textsf{Political Relationship/Corruption} & 0.95 & 1.45 \\ 
+\textsf{Bond Market} & 1.47 & 1.43 \\ 
+\textsf{Hedging} & 1.27 & 1.38 \\ 
+\textsf{Risk Management} & 1.37 & 1.36 \\ 
+\textsf{Concentration/Competition} & 1.39 & 1.31 \\ 
+\textsf{Firm Diversification} & 1.39 & 1.24 \\ 
+\textsf{Firm Valuation} & 1.47 & 1.21 \\ 
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\newpage

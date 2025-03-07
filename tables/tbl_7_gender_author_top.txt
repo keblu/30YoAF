@@ -1,0 +1,27 @@
+topic parameter  topic parameter
+\textsf{gender } &  gender & gender & \textsf{gender } &  gender \\
+ &   &  &  &   \\
+\textsf{Corporate Social Responsability } &  \grbbb{10.84} &  & \textsf{Return Predictability } &  \grbbb{-9.6} \\
+\textsf{Board/Executive } &  \grbbb{8.46} &  & \textsf{Portfolio Strategy } &  \grbbb{-9.38} \\
+\textsf{Ownership } &  \grbbb{6.29} &  & \textsf{Interest Rate } &  \grbbb{-8.3} \\
+\textsf{Corporate Announcement } &  \grbbb{5.42} &  & \textsf{Volatility } &  \grbbb{-7.05} \\
+\textsf{Emerging Country } &  \grbbb{5.39} &  & \textsf{Market Anomaly } &  \grbbb{-6} \\
+\textsf{Bank Liquidity } &  \grbbb{5.07} &  & \textsf{Monetary Policy } &  \grbbb{-5.63} \\
+ &   &  &  &   \\
+\textsf{top25 } &  top25 & top25 & \textsf{top25 } &  top25 \\
+ &   &  &  &   \\
+\textsf{Decision-Making Process } &  \grbbb{10.64} &  & \textsf{Literature Review } &  \grbbb{-10.7} \\
+\textsf{Corporate Investment } &  \grbbb{10.59} &  & \textsf{Contagion/Spillover } &  \grbbb{-6.49} \\
+\textsf{Debt Financing } &  \grbbb{8.7} &  & \textsf{Emerging Country } &  \grbbb{-5.97} \\
+\textsf{Capital Structure } &  \grbbb{8.65} &  & \textsf{Volatility } &  \grbbb{-3.69} \\
+\textsf{Political Relationship/Corruption } &  \grbbb{8.36} &  & \textsf{Market Anomaly } &  \grbbb{-3.63} \\
+\textsf{Fund Performance } &  \grbbb{7.34} &  & \textsf{Disclosure } &  \grbb{-3.44} \\
+ &   &  &  &   \\
+\textsf{n.author } &  n.author & n.author & \textsf{n.author } &  n.author \\
+ &   &  &  &   \\
+\textsf{Corporate Announcement } &  \grbbb{3.37} &  & \textsf{Monetary Policy } &  \grbbb{-8.02} \\
+\textsf{Market Anomaly } &  \grbbb{3} &  & \textsf{Retail Payment System } &  \grbbb{-4.5} \\
+\textsf{Disclosure } &  \grbbb{2.82} &  & \textsf{Interest Rate } &  \grbbb{-3.69} \\
+\textsf{Emerging Country } &  \grbbb{2.79} &  & \textsf{Capital Structure } &  \grbbb{-3.06} \\
+\textsf{Contagion/Spillover } &  \grbbb{2.61} &  & \textsf{Currency } &  \grbbb{-2.95} \\
+\textsf{Factor Model } &  \grbbb{2.17} &  & \textsf{Corporate Investment } &  \grbbb{-2.75} \\

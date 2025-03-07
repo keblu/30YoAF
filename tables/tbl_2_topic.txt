@@ -1,0 +1,57 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Thu Jul 28 12:01:20 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{lr}
+  \hline
+label & gamma \\ 
+  \hline
+\textsf{Trading/Liquidity} & 4.01 \\ 
+  \textsf{Monetary Policy} & 3.29 \\ 
+  \textsf{Portfolio Strategy} & 3.27 \\ 
+  \textsf{Option Pricing} & 3.25 \\ 
+  \textsf{Market Anomaly} & 3.15 \\ 
+  \textsf{Factor Model} & 3.06 \\ 
+  \textsf{Return Predictability} & 3.01 \\ 
+  \textsf{Bank Liquidity} & 2.99 \\ 
+  \textsf{Corporate Social Responsability} & 2.81 \\ 
+  \textsf{Contagion/Spillover} & 2.51 \\ 
+  \textsf{Emerging Country} & 2.48 \\ 
+  \textsf{Real Estate/Bubble} & 2.41 \\ 
+  \textsf{Volatility} & 2.39 \\ 
+  \textsf{Firm Earnings} & 2.37 \\ 
+  \textsf{Currency} & 2.36 \\ 
+  \textsf{Fund Performance} & 2.34 \\ 
+  \textsf{Board/Executive} & 2.31 \\ 
+  \textsf{Decision-Making Process} & 2.11 \\ 
+  \textsf{Corporate Investment} & 2.08 \\ 
+  \textsf{Interest Rate} & 1.88 \\ 
+  \textsf{Debt Governance} & 1.77 \\ 
+  \textsf{Household Credit/Economic Crash} & 1.73 \\ 
+  \textsf{Literature Review} & 1.72 \\ 
+  \textsf{Risk Management} & 1.71 \\ 
+  \textsf{Residential Market} & 1.67 \\ 
+  \textsf{Ownership} & 1.67 \\ 
+  \textsf{Insurance System} & 1.60 \\ 
+  \textsf{Debt Financing} & 1.60 \\ 
+  \textsf{IPO} & 1.57 \\ 
+  \textsf{Retail Payment System} & 1.56 \\ 
+  \textsf{Corporate Announcement} & 1.48 \\ 
+  \textsf{Merger/Acquisition} & 1.47 \\ 
+  \textsf{Credit Risk} & 1.46 \\ 
+  \textsf{Disclosure} & 1.40 \\ 
+  \textsf{Capital Structure} & 1.38 \\ 
+  \textsf{Bond Market} & 1.35 \\ 
+  \textsf{Banking Efficiency} & 1.31 \\ 
+  \textsf{Retirement/Annuity Market} & 1.28 \\ 
+  \textsf{Analyst} & 1.24 \\ 
+  \textsf{Concentration/Competition} & 1.18 \\ 
+  \textsf{Firm Diversification} & 1.18 \\ 
+  \textsf{Firm Valuation} & 1.15 \\ 
+  \textsf{Hedging} & 1.15 \\ 
+  \textsf{Corporate Conduct/Regulation} & 1.15 \\ 
+  \textsf{Political Relationship/Corruption} & 1.13 \\ 
+  \textsf{Payout Policy} & 1.06 \\ 
+   \hline
+\end{tabular}
+\end{table}

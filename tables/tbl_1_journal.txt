@@ -1,0 +1,43 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Thu Jul 28 12:31:09 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{llllll}
+  \hline
+nam_ & abbr_ & n_ & a_ & y_min & y_max \\ 
+  \hline
+European Financial Management & EFM & 809 & 30 & 1995 & 2021 \\ 
+  European Journal of Finance & EJF & 1172 & 45 & 1995 & 2021 \\ 
+  Financial Analysts Journal & FAJ & 859 & 33 & 1996 & 2021 \\ 
+  Financial Management & FM & 905 & 30 & 1992 & 2021 \\ 
+  Financial Review & FR & 916 & 31 & 1992 & 2021 \\ 
+  Finance Research Letters & FRL & 1693 & 94 & 2004 & 2021 \\ 
+  International Review of Financial Analysis & IRFA & 1819 & 61 & 1992 & 2021 \\ 
+  Journal of Business & JB & 461 & 31 & 1992 & 2006 \\ 
+  Journal of Banking & Finance & JBF & 4884 & 163 & 1992 & 2021 \\ 
+  Journal of Corporate Finance & JCF & 1935 & 69 & 1994 & 2021 \\ 
+  Journal of Derivatives & JD & 581 & 20 & 1993 & 2021 \\ 
+  Journal of Empirical Finance & JEF & 1221 & 42 & 1993 & 2021 \\ 
+  Journal of Finance & JF & 2330 & 78 & 1992 & 2021 \\ 
+  Journal of Financial Economics & JFE & 2750 & 92 & 1992 & 2021 \\ 
+  Journal of Futures Markets & JFM & 1324 & 53 & 1997 & 2021 \\ 
+  Journal of Financial Markets & JFMKT & 588 & 24 & 1998 & 2021 \\ 
+  Journal of Financial and Quantitative Analysis & JFQA & 1484 & 49 & 1992 & 2021 \\ 
+  Journal of Financial Research & JFR & 807 & 27 & 1992 & 2021 \\ 
+  Journal of Financial Services Research & JFSR & 636 & 21 & 1992 & 2021 \\ 
+  Journal of International Financial Markets Institutions & Money & JIFMIM & 1324 & 53 & 1997 & 2021 \\ 
+  Journal of International Money and Finance & JIMF & 2296 & 77 & 1992 & 2021 \\ 
+  Journal of Money Credit and Banking & JMCB & 1666 & 64 & 1992 & 2021 \\ 
+  Journal of Portfolio Management & JPM & 1355 & 45 & 1992 & 2021 \\ 
+  Journal of Real Estate Finance and Economics & JREFE & 1274 & 42 & 1992 & 2021 \\ 
+  Journal of Risk and Insurance & JRI & 964 & 32 & 1992 & 2021 \\ 
+  Pacific-Basin Finance Journal & PBFJ & 1479 & 51 & 1993 & 2021 \\ 
+  Quantitative Finance & QF & 1786 & 85 & 2001 & 2021 \\ 
+  Review of Finance & RF & 729 & 30 & 1997 & 2021 \\ 
+  Review of Financial Studies & RFS & 2108 & 70 & 1992 & 2021 \\ 
+  Journal of Financial Intermediation & JFI & 619 & 21 & 1992 & 2021 \\ 
+  Managerial Finance & MANF & 1882 & 63 & 1992 & 2021 \\ 
+  Review of Quantitative Finance and Accounting & RQFA & 1488 & 50 & 1992 & 2021 \\ 
+   \hline
+\end{tabular}
+\end{table}
